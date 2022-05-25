@@ -6,7 +6,7 @@ title: Kaifeng(Calvin) Pang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate student ESE
 
 # Organizations/Affiliations to show in About widget
 organizations:
