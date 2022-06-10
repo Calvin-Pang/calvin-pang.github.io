@@ -1,7 +1,7 @@
 ---
 title: Kaifeng(Calvin) Pang
 role: Undergraduate student ESE
-avatar_filename: calvin.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
