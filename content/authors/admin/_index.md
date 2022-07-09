@@ -14,30 +14,27 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Calvin_Pang_7
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Calvin-Pang/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: inkedin.com/in/kaifeng-calvin-pang/
 organizations:
   - name: Nanjing University
     url: https://www.nju.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ms in Electrical and Computer Engineering
+      institution: University of California, Los Angeles
+      year: 2022-now
+    - course: BEng in Microelectronic Science and Engineering (VLSI Design & System Integration)
+      institution: Nanjing University
+      year: 2018-2022
 email: ""
 superuser: true
 highlight_name: true
