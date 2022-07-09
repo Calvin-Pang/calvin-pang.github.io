@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'calvinpang777@g.ucla.edu'
+    link: "mailto:calvinpang777@g.ucla.edu"
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/7100458844
