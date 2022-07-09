@@ -11,10 +11,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: calvinpang777@g.ucla.edu
-  - icon: twitter
+    link: <calvinpang777@g.ucla.edu>
+  - icon: weibo
     icon_pack: fab
-    link: https://twitter.com/Calvin_Pang_7
+    link: https://weibo.com/u/7100458844
+  - icon: instagram-square
+    icon_pack: fab
+    link: https://www.instagram.com/calvin_pang_7/
   - icon: github
     icon_pack: fab
     link: https://github.com/Calvin-Pang/
