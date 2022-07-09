@@ -15,9 +15,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Calvin_Pang_7
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
     link: https://github.com/Calvin-Pang/
