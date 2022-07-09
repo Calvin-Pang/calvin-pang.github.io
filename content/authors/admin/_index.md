@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: calvinpang777@g.ucla.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Calvin_Pang_7
@@ -29,7 +29,7 @@ organizations:
     url: https://www.nju.edu.cn/
 education:
   courses:
-    - course: Ms in Electrical and Computer Engineering
+    - course: MSc in Electrical and Computer Engineering
       institution: University of California, Los Angeles
       year: 2022-now
     - course: BEng in Microelectronic Science and Engineering (VLSI Design & System Integration)
