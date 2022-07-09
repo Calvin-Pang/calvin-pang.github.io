@@ -1,7 +1,7 @@
 ---
 title: Kaifeng(Calvin) Pang
 role: Undergraduate student ESE
-avatar_filename: pkf1zippedjpg.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -29,10 +29,10 @@ organizations:
     url: https://www.nju.edu.cn/
 education:
   courses:
-    - course: MSc in Electrical and Computer Engineering
+    - course: MSc in ECE
       institution: University of California, Los Angeles
       year: 2022-now
-    - course: BEng in Microelectronic Science and Engineering (VLSI Design & System Integration)
+    - course: BEng in VLSI Design & System Integration
       institution: Nanjing University
       year: 2018-2022
 email: ""
