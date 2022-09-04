@@ -35,7 +35,7 @@ education:
     - course: BEng in VLSI Design & System Integration
       institution: Nanjing University
       year: 2018-2022
-email: ""
+email: "pangkaifeng851@gmail.com"
 superuser: true
 highlight_name: true
 ---
