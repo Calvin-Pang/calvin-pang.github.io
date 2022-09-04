@@ -29,7 +29,7 @@ organizations:
     url: https://www.nju.edu.cn/
 education:
   courses:
-    - course: MSc in Electrical and Computer Engineering
+    - course: MSc in Electrical and Computer Engineering    
       institution: University of California, Los Angeles
       year: 2022-now
     - course: BEng in VLSI Design & System Integration
