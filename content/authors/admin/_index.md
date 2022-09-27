@@ -35,7 +35,7 @@ education:
     - course: BEng in VLSI Design & System Integration
       institution: Nanjing University
       year: 2018-2022
-email: pangkaifeng851@gmail.com
+email: calvinpang777@g.ucla.edu
 superuser: true
 highlight_name: true
 ---
