@@ -23,7 +23,7 @@ social:
     link: https://github.com/Calvin-Pang/
   - icon: linkedin
     icon_pack: fab
-    link: inkedin.com/in/kaifeng-calvin-pang/
+    link: https://www.linkedin.com/in/kaifeng-calvin-pang/
 organizations:
   - name: University of California, Los Angeles
     url: https://www.ucla.edu/
