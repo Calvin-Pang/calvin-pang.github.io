@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: inkedin.com/in/kaifeng-calvin-pang/
 organizations:
-  - name: Nanjing University
-    url: https://www.nju.edu.cn/
+  - name: University of California, Los Angeles
+    url: https://www.ucla.edu/
 education:
   courses:
     - course: MSc in Electrical and Computer Engineering    
