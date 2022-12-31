@@ -3,8 +3,9 @@ widge: pages
 headless: true
 weight: 20
 
+Hello, Calvin
 
-# Page title
+<!-- # Page title
 title: My page
 # Page type - we want a landing page (such as a homepage)
 type: landing
@@ -22,5 +23,5 @@ sections:
     content:
       title: Section 2
       subtitle: A subtitle
-      text: Add your Section 2 content here...
+      text: Add your Section 2 content here... -->
 ---
