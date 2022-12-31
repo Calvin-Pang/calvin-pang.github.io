@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: My page
+  - name: News
     url: '#news'
     weight: 10
   - name: Posts
