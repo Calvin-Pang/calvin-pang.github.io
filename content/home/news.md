@@ -3,7 +3,7 @@ widge: pages
 headless: true
 weight: 20
 
-Hello, Calvin
+content: Hello, Calvin
 
 <!-- # Page title
 title: My page
