@@ -6,7 +6,7 @@ weight: 20
 # Page title
 title: My page
 # Page type - we want a landing page (such as a homepage)
-type: landing
+type: widget_page
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
