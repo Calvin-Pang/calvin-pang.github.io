@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Biomedical Image Analysis
   - Deep Learning
   - Computer Vision
-  - Image Processing
 social:
   - icon: envelope
     icon_pack: fas
