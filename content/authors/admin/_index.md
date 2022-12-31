@@ -40,6 +40,11 @@ superuser: true
 highlight_name: true
 ---
 
-Hi, I am Kaifeng AKA Calvin. Currently I am a graduate student in UCLA majored in electrical and computer enegineering.
+Hi I am Kaifeng and you can also call me Calvin. Currently I am a graduate student of Electrical and Computer Engineering in UCLA. 
+
+My research interests are mainly about biomedical image analysis, deep learning, computer vision, etc. I had been under the guidance of Prof Yang Li from Nanjing University and Prof Yuankai Huo from Vanderbilt Univerisity during my undergraduate studies. In general, I work on how to apply image analysis and artificial intelligence to human life to solve real problems. This is what I see as the ultimate goal of research.
+
+I like soccer, billiards, basketball and movies.
+I am a crazy fan of Arsenal and Miami Heat.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
