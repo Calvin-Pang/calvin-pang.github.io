@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Biomedical Image Analysis
+  - Medical Image Analysis
   - Deep Learning
   - Computer Vision
 social:
@@ -40,11 +40,11 @@ superuser: true
 highlight_name: true
 ---
 
-Hi, I am Kaifeng and you can also call me Calvin. Currently I am a graduate student of Electrical and Computer Engineering in UCLA. 
+Hi I am Kaifeng(Calvin). Currently I am a graduate student of Electrical and Computer Engineering in UCLA. 
 
-My research interests are mainly about biomedical image analysis, deep learning, etc. I had been under the guidance of Prof Yang Li in [emAI Lab](https://nju-ee.github.io/),  Nanjing University and Prof Yuankai Huo in [HRLB Lab](https://hrlblab.github.io/), Vanderbilt Univerisity during my undergraduate studies. In general, I work on how to apply image analysis and artificial intelligence to human life to solve real problems. This is what I see as the ultimate goal of research.
+Outside of courses, I am an active researcher in artifical intelligence. My research interests are mainly about medical image analysis, deep learning, etc. Specifically, I work on using artifical intelligence with medical data to develop reliable healthcare and diagnostic algorithms. I had been under the guidance of Prof Yang Li in [emAI Lab](https://nju-ee.github.io/) at Nanjing University and Prof Yuankai Huo in [HRLB Lab](https://hrlblab.github.io/) at Vanderbilt Univerisity during my undergraduate studies. Now I am a rotation graduate student in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/) at UCLA. I work under the guidance of Dr Kai Zhao and Prof Kyung Sung.
 
-I like soccer, billiards, basketball and movies.
-I am a crazy fan of Arsenal and Miami Heat.
+I like soccer, billiards, basketball and movies. I am a crazy fan of Arsenal and Miami Heat.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
