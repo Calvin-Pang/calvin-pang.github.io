@@ -1,7 +1,7 @@
 ---
 widge: pages
 headless: true
-weight: 20
+weight: 30
 title: News
 ---
 + 2023/01/20: I became a rotation researcher in Sung Lab of Magnetic Resonance Research Labs (MRRL) at UCLA.
