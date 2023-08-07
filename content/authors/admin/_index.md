@@ -18,6 +18,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kaifeng-calvin-pang/
+  - icon: google-scholar
+    icon_pach: ai
+    link: https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en
 organizations:
   - name: University of California, Los Angeles
     url: https://www.ucla.edu/
