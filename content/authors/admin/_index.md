@@ -12,12 +12,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:calvinpang777@g.ucla.edu"
-  - icon: weibo
-    icon_pack: fab
-    link: https://weibo.com/u/7100458844
-  - icon: instagram-square
-    icon_pack: fab
-    link: https://www.instagram.com/calvin_pang_7/
   - icon: github
     icon_pack: fab
     link: https://github.com/Calvin-Pang/
@@ -42,9 +36,9 @@ highlight_name: true
 
 Hi I am Kaifeng(Calvin). Currently I am a graduate student of Electrical and Computer Engineering in UCLA. 
 
-Outside of courses, I am an active researcher in artifical intelligence. My research interests are mainly about medical image analysis, deep learning, etc. Specifically, I work on using artifical intelligence with medical data to develop reliable healthcare and diagnostic algorithms. I had been under the guidance of Prof Yang Li in [emAI Lab](https://nju-ee.github.io/) at Nanjing University and Prof Yuankai Huo in [HRLB Lab](https://hrlblab.github.io/) at Vanderbilt Univerisity during my undergraduate studies. Now I am a rotation graduate student in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/) at UCLA. I work under the guidance of Dr Kai Zhao and Prof Kyung Sung.
+Outside of courses, I am an active researcher in artifical intelligence. My research interests are mainly about medical image analysis, deep learning, etc. Specifically, I work on using artifical intelligence with medical data to develop reliable healthcare and diagnostic algorithms. I had been under the guidance of Prof Yang Li in [emAI Lab](https://nju-ee.github.io/) at Nanjing University and Prof Yuankai Huo in [HRLB Lab](https://hrlblab.github.io/) at Vanderbilt Univerisity during my undergraduate studies. Now I am a graduate reseacher in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/) at UCLA. I work with [Dr Kai Zhao](https://kaizhao.net/) and [Prof Kyung Sung](http://kyungs.bol.ucla.edu/Site/Home.html).
 
-I like soccer, billiards, basketball and movies. I am a crazy fan of Arsenal and Miami Heat.
+I like soccer, billiards, basketball and movies. I am a fan of Arsenal and Miami Heat.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
