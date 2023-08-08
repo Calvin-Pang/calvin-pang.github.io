@@ -39,7 +39,7 @@ highlight_name: true
 
 Hi I am Kaifeng(Calvin). Currently I am a graduate student of Electrical and Computer Engineering in UCLA. 
 
-Outside of courses, I am an active researcher in artifical intelligence. My research interests are mainly about medical image analysis, deep learning, etc. Specifically, I work on using artifical intelligence with medical data to develop reliable healthcare and diagnostic algorithms. I had been under the guidance of Prof Yang Li in [emAI Lab](https://nju-ee.github.io/) at Nanjing University and Prof Yuankai Huo in [HRLB Lab](https://hrlblab.github.io/) at Vanderbilt Univerisity during my undergraduate studies. Now I am a graduate reseacher in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/) at UCLA. I work with [Dr Kai Zhao](https://kaizhao.net/) and [Prof Kyung Sung](http://kyungs.bol.ucla.edu/Site/Home.html).
+Outside of courses, I am an active researcher in medical AI. My research interests are mainly about medical image analysis, deep learning, etc. Specifically, I work on using artifical intelligence with medical data to develop reliable healthcare and diagnostic algorithms. I had been under the guidance of Prof Yang Li in [emAI Lab](https://nju-ee.github.io/) at Nanjing University and Prof Yuankai Huo in [HRLB Lab](https://hrlblab.github.io/) at Vanderbilt Univerisity during my undergraduate studies. Now I am a graduate reseacher in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/) at UCLA. I work with [Dr Kai Zhao](https://kaizhao.net/) and [Prof Kyung Sung](http://kyungs.bol.ucla.edu/Site/Home.html).
 
 I like soccer, billiards, basketball and movies. I am a fan of Arsenal and Miami Heat.
 
