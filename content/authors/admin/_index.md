@@ -44,4 +44,4 @@ Outside of courses, I am an active researcher in medical AI. My research interes
 I like soccer, billiards, basketball and movies. I am a fan of Arsenal and Miami Heat.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
