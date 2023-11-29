@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle:
+subtitle: Recording my thoughts and life journey (sometimes in Chinese)
 
 content:
   # Filter on criteria
