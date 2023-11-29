@@ -1,6 +1,6 @@
 ---
 title: Kaifeng(Calvin) Pang
-role: Graduate student ECE
+role: Graduate Student
 avatar_filename: avatar.jpg
 interests:
   - Medical Image Analysis
@@ -24,10 +24,13 @@ organizations:
     url: https://www.ucla.edu/
 education:
   courses:
+    - course: Ph.D. in Electrical and Computer Engineering    
+      institution: University of California, Los Angeles
+      year: Start from 2024
     - course: MSc in Electrical and Computer Engineering    
       institution: University of California, Los Angeles
-      year: 2022-now
-    - course: BEng in VLSI Design & System Integration
+      year: 2022-2024(Expected)
+    - course: BEng in Electronic Science and Engineering
       institution: Nanjing University
       year: 2018-2022
 email: calvinpang777@g.ucla.edu
