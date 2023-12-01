@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Personal website of Kaifeng Pang, currently a master student of ECE dept at UCLA'
+    org_name: 'UCLA'
+    description: 'Website of Kaifeng Pang, graduate of ECE dept at UCLA'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
