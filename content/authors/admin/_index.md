@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:calvinpang777@g.ucla.edu"
+    link: "mailto:calvinpang777 AT g DOT ucla DOT edu"
   - icon: github
     icon_pack: fab
     link: https://github.com/Calvin-Pang/
