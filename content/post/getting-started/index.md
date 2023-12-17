@@ -30,7 +30,7 @@ featured: false
 #   preview_only: false
 
 authors:
-  - admin
+  - Kaifeng
   # - 吳恩達
 
 tags:
