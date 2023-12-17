@@ -1,9 +1,10 @@
 ---
 title: 一些2024年之前想写下来的话
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+# subtitle: 一直希望自己可以接受平凡，后来发现原来这是这么难的事情
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: 一直希望自己可以接受平凡，后来发现原来这是这么难的事情
+
 
 # Link this post with a project
 projects: []
@@ -22,23 +23,23 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#   focal_point: ''
+#   placement: 2
+#   preview_only: false
 
 authors:
   - admin
-  - 吳恩達
+  # - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Musings
+  # - 开源
 
 categories:
-  - Demo
-  - 教程
+  - Musings
+  # - 教程
 ---
 
 <!-- ## Overview -->
