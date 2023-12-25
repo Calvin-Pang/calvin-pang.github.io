@@ -3,7 +3,7 @@ title: 一些2024年之前想写下来的话
 # subtitle: 一直希望自己可以接受平凡，后来发现原来这是这么难的事情
 
 # Summary for listings and search engines
-summary: 一直希望自己可以接受平凡，后来发现原来这是这么难的事情
+summary: 后来才发现接受平凡是这么难的事情
 
 
 # Link this post with a project
@@ -41,6 +41,9 @@ categories:
   - Musings
   # - 教程
 ---
+
+现在是2023年的Christmas Eve， 我在纽约的酒店里
+
 
 <!-- ## Overview -->
 
