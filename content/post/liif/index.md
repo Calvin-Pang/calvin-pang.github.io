@@ -33,10 +33,10 @@ authors:
   - Kaifeng
 
 tags:
-  - Musings
+  - Study
 
 categories:
-  - Musings
+  - Study
 
 ---
 
