@@ -8,7 +8,7 @@ summary: Study notes on paper LIIF
 projects: []
 
 # Date published
-date: '2023-12-28T09:47:00Z'
+date: '2023-12-13T09:47:00Z'
 
 # Date updated
 lastmod: '2023-12-13T09:47:00Z'
@@ -33,10 +33,10 @@ authors:
   - Kaifeng
 
 tags:
-  - Study
+  - Musings
 
 categories:
-  - Study
+  - Musings
 
 ---
 
