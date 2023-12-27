@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 65
 
 title: Projects
 subtitle: ''
@@ -47,4 +47,4 @@ design:
   flip_alt_rows: false
 ---
 
-Please refer to my GitHub page.
+Please refer to my [GitHub page](https://github.com/Calvin-Pang).
