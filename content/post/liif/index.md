@@ -1,6 +1,5 @@
 ---
 title: One crazy work on arbitrary-scale super-resolution!
-# subtitle: 一直希望自己可以接受平凡，后来发现原来这是这么难的事情
 
 # Summary for listings and search engines
 summary: Study notes on paper LIIF
