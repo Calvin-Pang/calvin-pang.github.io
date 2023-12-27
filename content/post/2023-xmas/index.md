@@ -3,7 +3,7 @@ title: 一些2024年之前想写下来的话
 # subtitle: 一直希望自己可以接受平凡，后来发现原来这是这么难的事情
 
 # Summary for listings and search engines
-summary: 真是很漫长的一年
+summary: A long year
 
 # Link this post with a project
 projects: []
