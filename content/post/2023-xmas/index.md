@@ -20,7 +20,7 @@ draft: false
 # {{ .5 }} minutes
 
 # Show this page in the Featured widget?
-featured: false
+featured: True
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
