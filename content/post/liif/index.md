@@ -1,25 +1,25 @@
 ---
 title: One crazy work on arbitrary-scale super-resolution!
 
-# # Summary for listings and search engines
-# summary: Study notes on paper LIIF
+# Summary for listings and search engines
+summary: Study notes on paper LIIF
 
-# # Link this post with a project
-# projects: []
+# Link this post with a project
+projects: []
 
 # Date published
 date: '2023-12-28T09:47:00Z'
 
-# # Date updated
-# lastmod: '2023-12-13T09:47:00Z'
+# Date updated
+lastmod: '2023-12-13T09:47:00Z'
 
-# # Is this an unpublished draft?
-# draft: false
+# Is this an unpublished draft?
+draft: false
 
-# # {{ .5 }} minutes
+# {{ .5 }} minutes
 
-# # Show this page in the Featured widget?
-# featured: True
+# Show this page in the Featured widget?
+featured: True
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -29,14 +29,14 @@ date: '2023-12-28T09:47:00Z'
 #   placement: 2
 #   preview_only: false
 
-# authors:
-#   - Kaifeng
+authors:
+  - Kaifeng
 
-# tags:
-#   - Musings
+tags:
+  - Musings
 
-# categories:
-#   - Musings
+categories:
+  - Musings
 
 ---
 
