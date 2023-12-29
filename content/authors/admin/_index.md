@@ -33,7 +33,7 @@ education:
     - course: BEng in Electronic Science and Engineering
       institution: Nanjing University
       year: 2018-2022
-email: calvinpang777@g.ucla.edu
+email: pangkaifeng851@gmail.com
 superuser: true
 highlight_name: true
 ---
