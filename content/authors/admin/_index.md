@@ -38,7 +38,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a graduate student of [Electrical and Computer Engineering](https://samueli.ucla.edu/) as well as a research trainee of [Radiological Sciences](https://www.uclahealth.org/departments/radiology) at [UCLA](https://www.ucla.edu/) . I graduated from [Nanjing University](https://www.nju.edu.cn/en/) in 2022.
+I am a graduate student of [Electrical and Computer Engineering](https://samueli.ucla.edu/) as well as a research trainee advised by [Prof Kyung Sung](http://kyungs.bol.ucla.edu/Site/Home.html) in the Department of [Radiological Sciences](https://www.uclahealth.org/departments/radiology) at [UCLA](https://www.ucla.edu/). I graduated from [Nanjing University](https://www.nju.edu.cn/en/) in 2022.
 
 I am an active researcher in medical AI. My research interests are mainly about medical image analysis, deep learning, etc. Specifically, I work on using artificial intelligence with medical data to develop trustworthy healthcare and diagnostic algorithms. Now I am a graduate student reseacher in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/) at UCLA. I work with [Prof Kyung Sung](http://kyungs.bol.ucla.edu/Site/Home.html) and [Dr Kai Zhao](https://kaizhao.net/). I had been under the guidance of Prof Yang Li in [emAI Lab](https://nju-ee.github.io/) at Nanjing University and Prof Yuankai Huo in [HRLB Lab](https://hrlblab.github.io/) at Vanderbilt Univerisity during my undergraduate studies. 
 
