@@ -3,7 +3,7 @@ title: Kaifeng(Calvin) Pang
 role: Graduate Student Researcher
 avatar_filename: avatar.jpg
 interests:
-  - Medical Image Analysis
+  - Medical Imaging
   - Deep Learning
   - Computer Vision
 social:
