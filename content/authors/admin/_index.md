@@ -1,5 +1,5 @@
 ---
-title: Kaifeng(Calvin) Pang
+title: Kaifeng (Calvin) Pang
 role: Graduate Student Researcher
 avatar_filename: avatar.jpg
 interests:
