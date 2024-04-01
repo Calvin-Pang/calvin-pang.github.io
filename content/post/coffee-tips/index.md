@@ -33,10 +33,10 @@ authors:
   - Kaifeng
 
 tags:
-  - Study
+  - Personal
 
 categories:
-  - Study
+  - Personal
 
 ---
 
