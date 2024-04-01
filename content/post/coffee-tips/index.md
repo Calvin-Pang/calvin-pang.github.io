@@ -2,7 +2,7 @@
 title: My coffee tips!
 
 # Summary for listings and search engines
-summary: My favorite coffee shops and personal coffee recipes!
+summary: My favorite cafes and personal coffee recipes!
 
 # Link this post with a project
 projects: []
@@ -40,6 +40,7 @@ categories:
 
 ---
 
-Hey I am working on writing my study notes for the great work [LIIF](https://arxiv.org/abs/2012.09161). It is about achieving super-resolution in arbitrary scales with implicit neural representation. I will record my understanding of this work and thanks for your patience!
+One interesting thing about me is that I stopped drinking soda after coming to US in 2022. Since then, coffee has become an essential drink for me every day. In this post, I write down my favorite cafes (most of them are close to UCLA), and my 
+personal recipes of coffee. Feel free to have a try and they will not let you down!
 
 
