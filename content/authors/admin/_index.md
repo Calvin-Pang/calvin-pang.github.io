@@ -6,6 +6,7 @@ interests:
   - Medical Imaging
   - Deep Learning
   - Image Enhancement
+  - Image Generation
 social:
   - icon: envelope
     icon_pack: fas
