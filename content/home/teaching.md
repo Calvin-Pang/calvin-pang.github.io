@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: Publications
+title: Teaching
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - teaching
     tag: ''
     category: ''
     publication_type: ''
@@ -35,7 +35,7 @@ design:
   view: citation
   columns: '2'
 ---
-Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en).
+- Teaching Assistant: ECE 247
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}} -->
