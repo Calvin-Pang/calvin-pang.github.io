@@ -11,12 +11,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:calvinpang777 AT g DOT ucla DOT edu"
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/kaifeng-calvin-pang/ 
   - icon: github
     icon_pack: fab
     link: https://github.com/Calvin-Pang/
-  - icon: linkedin
+  - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/in/kaifeng-calvin-pang/
+    link: https://x.com/Calvin_Pang_7
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en
