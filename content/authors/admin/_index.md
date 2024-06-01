@@ -30,7 +30,7 @@ education:
       year: Start from 2024
     - course: MSc in Electrical and Computer Engineering    
       institution: University of California, Los Angeles
-      year: 2022-2024(Expected)
+      year: 2022-2024
     - course: BEng in Electronic Science and Engineering
       institution: Nanjing University
       year: 2018-2022
