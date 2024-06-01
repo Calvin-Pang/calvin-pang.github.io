@@ -27,7 +27,7 @@ education:
   courses:
     - course: Ph.D. in Electrical and Computer Engineering    
       institution: University of California, Los Angeles
-      year: Start from 2024
+      year: 2024-Now
     - course: MSc in Electrical and Computer Engineering    
       institution: University of California, Los Angeles
       year: 2022-2024
