@@ -14,12 +14,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kaifeng-calvin-pang/ 
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Calvin-Pang/
   - icon: twitter
     icon_pack: fab
     link: https://x.com/Calvin_Pang_7
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Calvin-Pang/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en
