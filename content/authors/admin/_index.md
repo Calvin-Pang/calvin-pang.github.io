@@ -1,6 +1,6 @@
 ---
 title: Kaifeng (Calvin) Pang
-role: Graduate Student Researcher
+role: PhD Student at [UCLA](https://www.ucla.edu/) 
 avatar_filename: avatar.jpg
 interests:
   - Medical Imaging
