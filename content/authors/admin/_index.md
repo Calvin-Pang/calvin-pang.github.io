@@ -49,4 +49,4 @@ I am an active researcher in medical AI. My research interests are medical imagi
 In my daily life, I like soccer, billiards, basketball and movies. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Kaifeng Pang.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Kaifeng Pang.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
