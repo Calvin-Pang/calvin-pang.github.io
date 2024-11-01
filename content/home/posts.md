@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 30
 
 title: Recent Posts
 subtitle: To record my thoughts and life (sometimes in Chinese)
