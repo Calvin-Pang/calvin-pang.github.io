@@ -44,5 +44,6 @@ One interesting thing about me is that I stopped drinking soda after coming to U
 personal recipes of coffee. Feel free to have a try and they will not let you down!
 
 - Starbucks: Certainly, when you have no idea where to buy a cup of coffe, Starbucks is always a reliable fallback option. 
-  + Latte: My favorite Latte recipt is **Iced/Hot Caffè Latte, light ice, oatmilk, 2 pumps of hazelnut syrup**. I will say oatmilk and hazelnut syrup are a excellent couple! When the naturally mild and slightly sweet flavor of oatmilk meets the nutty essence of hazelnut, there will be an amazing slightly bitter taste in addition to the original bitterness of Coffee. (However, sometimes the hazelnut syrup is out of supply, the best alternative is **toffeenut**.)
-  + 
+  + Latte: My favorite Latte recipt is **Iced/Hot Caffè Latte, light ice, oatmilk, 2 pumps of hazelnut syrup**. I will say oatmilk and hazelnut syrup are an excellent couple! When the naturally mild and slightly sweet flavor of oatmilk meets the nutty essence of hazelnut, there will be an amazing slightly bitter taste in addition to the original bitterness of Coffee. (However, sometimes the hazelnut syrup is out of supply, the best alternative is **toffeenut**.)
+
+- Upside Down: This small cafe is just opposite my office, so I go there almost every day for a coffee. My favorite order is an **Iced Caffè Latte with oat milk and brown sugar syrup**.  I originally chose brown sugar syrup because they don’t have hazelnut syrup. But trust me, you will be pleasantly surprised by how good it tastes!
