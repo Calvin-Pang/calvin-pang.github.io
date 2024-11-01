@@ -46,7 +46,7 @@ I am a PhD student in the Department of [Radiological Sciences](https://www.ucla
 
 I am an active researcher in [medical AI](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare). I work as a graduate student researcher in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/), collaborating with [Dr. Kai Zhao](https://kaizhao.net/) and [Dr. Qi Miao](https://mrrl.ucla.edu/pages/Qi_Miao). I also engage in collaborative research with [Dr. Wayne Brisbane](https://www.uclahealth.org/providers/wayne-brisbane)'s group. My primary research interests are medical imaging and deep learning. Specifically, I work on using artificial intelligence and medical data to develop advanced medical imaging and diagnostic algorithms. My current research projects involve medical image enhancement, such as super-resolution, reformation, and denoising, as well as histopathology image analysis.
 
-Outside of academia, I enjoy sports and games like soccer, billiards and table tennis. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I also have a wide interest in movies and musicals. 
+Outside of academia, I enjoy sports and games like soccer, billiards, and table tennis. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I also have a wide interest in movies and musicals. 
 
 
 
