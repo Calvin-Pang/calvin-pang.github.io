@@ -39,7 +39,7 @@ design:
 <div style="font-size: 14px;">
 
 - **Pang, Kaifeng**, Kai Zhao, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan and Kyunghyun Sung. "NExpR: Neural Explicit Representation for
-Fast Arbitrary-scale Medical Image Super-resolution." Computers in Biology and Medicines (2024).
+Fast Arbitrary-scale Medical Image Super-resolution." Computers in Biology and Medicine (2024).
 
 - Zhao, Kai, **Kaifeng Pang**, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, and Kyunghyun Sung. "MRI Super-Resolution with Partial Diffusion Models." IEEE Transactions on Medical Imaging (2024). [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720924)
 
