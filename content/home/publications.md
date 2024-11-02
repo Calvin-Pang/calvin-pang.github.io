@@ -36,7 +36,7 @@ design:
   columns: '2'
 ---
 
-<div style="font-size: 6px;">
+<div style="font-size: 12px;">
 
 - **Pang, Kaifeng**, Kai Zhao, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan and Kyunghyun Sung. "NExpR: Neural Explicit Representation for
 Fast Arbitrary-scale Medical Image Super-resolution." Computers in Biology and Medicines (2024).
