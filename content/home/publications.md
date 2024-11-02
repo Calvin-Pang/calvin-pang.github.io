@@ -35,7 +35,11 @@ design:
   view: citation
   columns: '2'
 ---
-Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en).
+- **Pang, Kaifeng**, Zuhayr Asad, Shilin Zhao, and Yuankai Huo. "MAg: a simple learning-based patient-level aggregation method for detecting microsatellite instability from whole-slide images." In 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI), pp. 1-4. IEEE, 2022. (oral) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) [code](https://github.com/Calvin-Pang/MAg) [presentation](https://youtu.be/Ln60y3aGthc)
+
+
+
+Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en) for the full list.
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}} -->
