@@ -35,7 +35,12 @@ design:
   view: citation
   columns: '2'
 ---
-- **Pang, Kaifeng**, Zuhayr Asad, Shilin Zhao, and Yuankai Huo. "MAg: a simple learning-based patient-level aggregation method for detecting microsatellite instability from whole-slide images." In 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI), pp. 1-4. IEEE, 2022. (oral) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) [code](https://github.com/Calvin-Pang/MAg) [presentation](https://youtu.be/Ln60y3aGthc)
+
+
+- Hung, Alex Ling Yu, Haoxin Zheng, Kai Zhao, Xiaoxi Du, **Kaifeng Pang**, Qi Miao, Steven S. Raman, Demetri Terzopoulos, and Kyunghyun Sung. "CSAM: A 2.5 D Cross-Slice Attention Module for Anisotropic Volumetric Medical Image Segmentation." In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 5923-5932. 2024. [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Hung_CSAM_A_2.5D_Cross-Slice_Attention_Module_for_Anisotropic_Volumetric_Medical_WACV_2024_paper.pdf)
+
+- **Pang, Kaifeng**, Zuhayr Asad, Shilin Zhao, and Yuankai Huo. "MAg: a simple learning-based patient-level aggregation method for detecting microsatellite instability from whole-slide images." In 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI), pp. 1-4. IEEE, 2022. (oral) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) [[code]](https://github.com/Calvin-Pang/MAg) [[presentation]](https://youtu.be/Ln60y3aGthc)
+
 
 
 
