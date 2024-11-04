@@ -48,7 +48,7 @@ I am an active researcher in [medical AI](https://en.wikipedia.org/wiki/Artifici
 
 Outside of academia, I enjoy sports and games like soccer, billiards, and table tennis. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I also have a wide interest in movies and musicals. 
 
-***Feel free to drop me an email if you are interested in my research projects or potential collaboration.:sunglasses:***
+***Feel free to drop me an email if you are interested in my research projects or potential collaboration.***:sunglasses:
 
 
 
