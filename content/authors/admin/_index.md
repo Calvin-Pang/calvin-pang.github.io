@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:calvinpang777 AT g DOT ucla DOT edu"
+    link: "mailto:calvinpang777@g.ucla.edu"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kaifeng-calvin-pang/ 
