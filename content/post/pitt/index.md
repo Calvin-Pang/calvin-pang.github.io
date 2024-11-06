@@ -44,3 +44,4 @@ categories:
 ### 为什么我怀念匹兹堡？
 
 
+![匹兹堡的夜晚](pitt_night.jpeg)
