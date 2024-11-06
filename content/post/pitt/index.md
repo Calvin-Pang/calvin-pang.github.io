@@ -57,7 +57,7 @@ Oh不对，因为似乎我却也从来没对LA的热烈与节奏产生过厌倦�
 
 哦对，我还逛了一次Pitt校园，我仍然记得拿着一杯Hot Chocolate在校园商店里的感觉。我在那里买了一个挂件，现在就挂在我的书包上：
 
-{{< figure src="pitt_logo.jpeg" title="匹兹堡大学的校徽" alt="匹大的校徽" width="300px" caption="匹兹堡大学的校徽" >}}
+{{< figure src="pitt_logo.jpeg" title="匹兹堡大学的校徽" alt="匹大的挂件" width="300px" caption="匹兹堡大学的校徽" >}}
 
 <!-- <img src="pitt_logo.jpeg" alt="匹大的校徽" title="匹大的校徽" width="300px" /> -->
 
