@@ -3,7 +3,7 @@ title: 为什么我怀念匹兹堡
 subtitle: Why I Miss Pittsburgh?
 
 # Summary for listings and search engines
-summary: A long year
+summary: Why I Miss Pittsburgh?
 
 # Link this post with a project
 projects: []
@@ -41,6 +41,6 @@ categories:
 
 ---
 
-为什么我怀念匹兹堡？
+### 为什么我怀念匹兹堡？
 
 
