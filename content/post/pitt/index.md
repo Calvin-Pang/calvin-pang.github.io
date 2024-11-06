@@ -1,9 +1,9 @@
 ---
 title: 为什么我怀念匹兹堡
-subtitle: Why I Miss Pittsburgh?
+subtitle: Why do I miss Pittsburgh?
 
 # Summary for listings and search engines
-summary: Why I Miss Pittsburgh?
+summary: Why do I miss Pittsburgh?
 
 # Link this post with a project
 projects: []
