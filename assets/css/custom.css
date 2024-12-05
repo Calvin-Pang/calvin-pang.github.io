@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'SpecialFont';
+    src: url('/fonts/DancingScript-VariableFont_wght.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.special-text {
+    font-family: 'SpecialFont', sans-serif;
+}
