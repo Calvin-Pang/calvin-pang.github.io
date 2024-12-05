@@ -19,3 +19,7 @@ title: About me
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+<span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
+Modestly, Devoutly, Boldly.
+</span>
