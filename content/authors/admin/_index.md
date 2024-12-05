@@ -43,7 +43,7 @@ highlight_name: true
 ---
 
 <span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
-This text uses the Dancing Script font.
+Modestly, Devoutly, Boldly.
 </span>
 
 I am a PhD student in the Department of [Radiological Sciences](https://www.uclahealth.org/departments/radiology) and the Department of [Electrical and Computer Engineering](https://samueli.ucla.edu/) 
