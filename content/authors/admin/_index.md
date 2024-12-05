@@ -42,9 +42,6 @@ superuser: true
 highlight_name: true
 ---
 
-<span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
-Modestly, Devoutly, Boldly.
-</span>
 
 I am a PhD student in the Department of [Radiological Sciences](https://www.uclahealth.org/departments/radiology) and the Department of [Electrical and Computer Engineering](https://samueli.ucla.edu/) 
 at [UCLA](https://www.ucla.edu/), where I am privileged to be co-advised by [Prof. Kyung Sung](http://kyungs.bol.ucla.edu/Site/Home.html) and [Prof. Robert Candler](https://samueli.ucla.edu/people/robert-candler/).
@@ -63,6 +60,9 @@ Outside of academia, I enjoy sports and games like soccer, billiards, and table 
 
 ***Feel free to drop me an email if you are interested in my research projects or potential collaboration.*** :sunglasses:
 
+<span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
+Modestly, Devoutly, Boldly.
+</span>
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Kaifeng Pang.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
