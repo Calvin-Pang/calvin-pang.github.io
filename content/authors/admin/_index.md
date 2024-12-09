@@ -56,7 +56,7 @@ My primary research interests are medical imaging and deep learning.
 Specifically, I work on using artificial intelligence and medical data to develop advanced medical imaging and diagnostic algorithms. 
 My current research focuses on applying generative AI to medical image enhancement, including tasks such as super-resolution, denoising, and reformation.
 
-Outside of academia, I enjoy sports and games like soccer, billiards, and table tennis. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I also have a wide interest in movies and musicals. 
+Outside of academia, I enjoy sports and games like soccer, billiards, and table tennis. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I also have a broad interest in movies and musicals. 
 
 ***Feel free to drop me an email if you are interested in my research projects or potential collaboration.*** :sunglasses:
 
