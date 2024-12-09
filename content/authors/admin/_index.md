@@ -48,7 +48,7 @@ at [UCLA](https://www.ucla.edu/), where I am privileged to be co-advised by [Pro
 Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2022, under the guidance of [Prof. Yang Li](https://ieeexplore.ieee.org/author/37676384600). 
 During my undergraduate studies, I was also fortunate to work with [Prof. Yuankai Huo](https://hrlblab.github.io/) at [Vanderbilt University](https://vanderbilt.edu/).  
 
-I am an active researcher in [medical AI](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare). 
+As an active researcher in [medical AI](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare), 
 I work as a graduate student researcher in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/), 
 collaborating with [Dr. Kai Zhao](https://kaizhao.net/) and [Dr. Qi Miao](https://mrrl.ucla.edu/pages/Qi_Miao). 
 I also engage in collaborative research with [Dr. Wayne Brisbane](https://www.uclahealth.org/providers/wayne-brisbane)'s group. 
