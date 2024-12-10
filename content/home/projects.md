@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
@@ -47,4 +47,4 @@ design:
   flip_alt_rows: false
 ---
 
-Please refer to my [GitHub page](https://github.com/Calvin-Pang).
+Please refer to my [GitHub page](https://github.com/Calvin-Pang). -->
