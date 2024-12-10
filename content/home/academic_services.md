@@ -35,6 +35,5 @@ design:
   view: citation
   columns: '2'
 ---
-
-<div style="font-size: 14px;">
-
+- Conference reviewe: IEEE ISBI, IEEE SMC.
+- Journal review: IET Computer Vision.
