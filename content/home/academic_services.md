@@ -35,5 +35,5 @@ design:
   view: citation
   columns: '2'
 ---
-- Conference reviewe: IEEE ISBI, IEEE SMC.
+- Conference review: IEEE ISBI, IEEE SMC.
 - Journal review: IET Computer Vision.
