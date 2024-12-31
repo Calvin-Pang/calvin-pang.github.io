@@ -49,7 +49,7 @@ Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and
 During my undergraduate studies, I was also fortunate to work with [Prof. Yuankai Huo](https://hrlblab.github.io/) at [Vanderbilt University](https://vanderbilt.edu/).  
 
 As an active researcher in [medical AI](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare), 
-I work as a graduate student researcher in [Sung Lab](https://mrrl.ucla.edu/sunglab/) of [MRRL Labs](https://mrrl.ucla.edu/pages/), 
+I am a member of the [Sung Lab](https://mrrl.ucla.edu/sunglab/) within [MRRL Labs](https://mrrl.ucla.edu/pages/), 
 collaborating with [Dr. Kai Zhao](https://kaizhao.net/) and [Dr. Qi Miao](https://mrrl.ucla.edu/pages/Qi_Miao). 
 I also engage in collaborative research with [Dr. Wayne Brisbane](https://www.uclahealth.org/providers/wayne-brisbane)'s group. 
 I work on using artificial intelligence and medical data to develop advanced medical imaging and diagnostic algorithms. 
