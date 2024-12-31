@@ -31,10 +31,10 @@ education:
     - course: Ph.D. in Electrical and Computer Engineering    
       institution: University of California, Los Angeles
       year: 2024-Now
-    - course: MSc in Electrical and Computer Engineering    
+    - course: M.S. in Electrical and Computer Engineering    
       institution: University of California, Los Angeles
       year: 2022-2024
-    - course: BEng in Electronic Science and Engineering
+    - course: B.Eng. in Electronic Science and Engineering
       institution: Nanjing University
       year: 2018-2022
 email: pangkaifeng851@gmail.com
