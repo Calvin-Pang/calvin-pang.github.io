@@ -38,6 +38,8 @@ design:
 
 <div style="font-size: 14px;">
 
+- **Pang, Kaifeng**, Qi Miao, Alex Ling Yu Hung, Kai Zhao, Eunsun Oh, Raymi Ramirez, Wayne Brisbane and Kyunghyun Sung. "MPR-Diff: a Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging." In 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI).
+
 - **Pang, Kaifeng**, Kai Zhao, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, and Kyunghyun Sung. "NExpR: Neural Explicit Representation for fast arbitrary-scale medical image super-resolution." Computers in Biology and Medicine 184 (2025): 109354. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482524014392) [[code]](https://github.com/Calvin-Pang/NExpR) 
 
 - Zhao, Kai, **Kaifeng Pang**, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, and Kyunghyun Sung. "MRI Super-Resolution with Partial Diffusion Models." IEEE Transactions on Medical Imaging (2024). [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720924)
