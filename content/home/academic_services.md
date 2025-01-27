@@ -36,4 +36,4 @@ design:
   columns: '2'
 ---
 - Conference review: IEEE ISBI, IEEE SMC.
-- Journal review: IET Computer Vision.
+- Journal review: IET Computer Vision, Discover Artificial Intelligence.
