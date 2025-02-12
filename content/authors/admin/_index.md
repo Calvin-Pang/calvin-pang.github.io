@@ -63,8 +63,6 @@ Outside of academia, I enjoy soccer, billiards, movies and musicals. I am a fan 
 Modestly, Devoutly, Boldly.
 
 Sīlena, Saddhāya, Viriyena.
-
-以戒，以信，以精进
 </span>
 
 
