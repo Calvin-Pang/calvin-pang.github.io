@@ -61,8 +61,6 @@ Outside of academia, I enjoy soccer, billiards, movies and musicals. I am a fan 
 
 <span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
 Modestly, Devoutly, Boldly.
-
-Sīlena, Saddhāya, Viriyena.
 </span>
 
 
