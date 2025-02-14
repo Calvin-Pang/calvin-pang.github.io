@@ -1,8 +1,8 @@
 ---
-title: My coffee tips!
+title: My coffee tips
 
 # Summary for listings and search engines
-summary: My favorite cafes and personal coffee recipes!
+summary: My favorite cafes and personal coffee recipes
 
 # Link this post with a project
 projects: []
