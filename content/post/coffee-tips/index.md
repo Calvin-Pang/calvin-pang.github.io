@@ -45,5 +45,6 @@ personal recipes of coffee. Feel free to have a try and they will not let you do
 
 - Starbucks: Certainly, when you have no idea where to buy a cup of coffe, Starbucks is always a reliable backup option. 
   + Latte: My favorite Latte recipt is **Iced/Hot Caffè Latte, light ice, oatmilk, 2 pumps of hazelnut syrup**. I will say oatmilk and hazelnut syrup are an excellent couple! When the naturally mild and slightly sweet flavor of oatmilk meets the nutty essence of hazelnut, there will be an amazing slightly bitter taste in addition to the original bitterness of Coffee. (However, sometimes the hazelnut syrup is out of supply, the best alternative is **toffeenut**.)
+  + English tea: **Royal English Breakfast Latte, oatmilk, no water, salted caramel cream cold foam, 1 pump brown sugar syrup, 1 pump classic syrup**. Feel free to adjust the syrup to your own preference. This is a crazy recipe that can bring you an excellent milk tea (the foam is the soul).
 
 - Upside Down: This small cafe is just opposite my office, so I go there almost every day for a coffee. My favorite order is an **Iced Caffè Latte with oat milk and brown sugar syrup**.  I originally chose brown sugar syrup because they don’t have hazelnut syrup. But trust me, you will be pleasantly surprised by how good it tastes. (By the way, they have really good Chocolate Croissant.)
