@@ -35,7 +35,7 @@ design:
   view: citation
   columns: '2'
 ---
-- Teaching Assistant: ECE 239AS.3 Advanced Neural Networks and Deep Learning, UCLA, Spring (2024, 2025)
+- Teaching Assistant: ECE 239AS Advanced Neural Networks and Deep Learning, UCLA, Spring (2024, 2025)
 - Teaching Assistant: ECE C147/C247 Neural Networks and Deep Learning, UCLA, Winter (2024, 2025)
 - Graduate Tutor / Teaching Assistant: Break Through Tech AI-AI Studio, UCLA, Fall (2023)
 - Teaching Assistant: Break Through Tech AI-Machine Learning and Data Science, UCLA, Summer (2023)
