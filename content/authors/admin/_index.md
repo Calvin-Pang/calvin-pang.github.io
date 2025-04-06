@@ -45,7 +45,7 @@ highlight_name: true
 
 I am a PhD student in the Department of [Radiological Sciences](https://www.uclahealth.org/departments/radiology) and the Department of [Electrical and Computer Engineering](https://samueli.ucla.edu/) 
 at [UCLA](https://www.ucla.edu/), where I am privileged to be co-advised by [Prof. Kyung Sung](http://kyungs.bol.ucla.edu/Site/Home.html) and [Prof. Robert Candler](https://samueli.ucla.edu/people/robert-candler/).
-Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2022, under the guidance of [Prof. Yang Li](https://ieeexplore.ieee.org/author/37676384600). 
+Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2022, advised by [Prof. Yang Li](https://ieeexplore.ieee.org/author/37676384600). 
 During my undergraduate studies, I was also fortunate to work with [Prof. Yuankai Huo](https://hrlblab.github.io/) at [Vanderbilt University](https://vanderbilt.edu/).  
 
 As an active researcher in [medical AI](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare), 
