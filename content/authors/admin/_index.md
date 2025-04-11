@@ -59,7 +59,9 @@ Outside of academia, I enjoy soccer, billiards, movies and musicals. I am a fan 
 
 ***Feel free to drop me an email if you are interested in my research projects or potential collaboration.*** :sunglasses:
 
-***I will be joining [Bristol Myers Squibb](https://www.bms.com/) as an Oncology - Deep Learning Researcher Intern during 2025 summer.***
+<span style="font-size: 18px;">
+<b>I will be joining <a href="https://www.bms.com/">Bristol Myers Squibb</a> as an Oncology - Deep Learning Researcher Intern during 2025 summer.</b>
+</span>
 
 <span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
 Modestly, Devoutly, Boldly.
