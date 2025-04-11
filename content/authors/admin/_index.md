@@ -53,7 +53,7 @@ I am a member of the [Sung Lab](https://mrrl.ucla.edu/sunglab/) within [MRRL Lab
 collaborating with [Dr. Kai Zhao](https://kaizhao.net/) and [Dr. Qi Miao](https://mrrl.ucla.edu/pages/Qi_Miao). 
 I also engage in collaborative research with [Dr. Wayne Brisbane](https://www.uclahealth.org/providers/wayne-brisbane)'s group. 
 I work on using artificial intelligence and medical data to develop advanced medical imaging and diagnostic algorithms. 
-My current research focuses on applying generative AI to medical image enhancement, including tasks such as super-resolution, denoising, reformation, etc.
+My current research focuses on applying generative AI to medical image enhancement, including super-resolution, denoising, reformation, etc.
 
 Outside of academia, I enjoy soccer, billiards, movies and musicals. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I am also a long-time player of [EA Sports FC](https://www.ea.com/games/ea-sports-fc).
 
