@@ -57,7 +57,7 @@ My current research focuses on applying generative AI to medical image enhanceme
 
 Outside of academia, I enjoy soccer, billiards, movies and musicals. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I am also a long-time player of [EA Sports FC](https://www.ea.com/games/ea-sports-fc).
 
-:sunglasses:***Feel free to drop me an email if you are interested in my research projects or potential collaboration.*** 
+:raised_hands:***Feel free to drop me an email if you are interested in my research projects or potential collaboration.*** 
 
 <span style="font-size: 15px;">
 👨‍💻<i><b>I will be joining <a href="https://www.bms.com/">Bristol Myers Squibb</a> as an Oncology - Deep Learning Researcher Intern during 2025 summer.</b></i>
