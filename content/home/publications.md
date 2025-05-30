@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -62,4 +62,4 @@ design:
 Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en) for the full list.
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->
+{{% /callout %}} --> -->
