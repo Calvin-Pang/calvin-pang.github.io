@@ -61,3 +61,6 @@ Oh不对，因为似乎我却也从来没对LA的热烈与节奏产生过厌倦�
 
 <!-- <img src="pitt_logo.jpeg" alt="匹大的校徽" title="匹大的校徽" width="300px" /> -->
 
+
+<p align="right">11/05/2024</p>
+<p align="right">UCLA, Los Angeles</p>
