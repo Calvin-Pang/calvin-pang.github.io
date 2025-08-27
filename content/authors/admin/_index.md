@@ -47,22 +47,19 @@ Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and
 During my undergraduate studies, I was also fortunate to work with [Prof. Yuankai Huo](https://hrlblab.github.io/) at [Vanderbilt University](https://vanderbilt.edu/).  
 
 <!-- As an active researcher in [medical AI](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare),  -->
-I am a member of the [Sung Lab](https://mrrl.ucla.edu/sunglab/) within [MRRL Labs](https://mrrl.ucla.edu/pages/), 
-collaborating with [Dr. Kai Zhao](https://kaizhao.net/) and [Dr. Qi Miao](https://mrrl.ucla.edu/pages/Qi_Miao). 
+I am a member of the [Sung Lab](https://mrrl.ucla.edu/labs/sung-lab) within [MRRL Labs](https://mrrl.ucla.edu/), 
+collaborating with [Dr. Kai Zhao](https://kaizhao.net/) and [Dr. Qi Miao](https://mrrl.ucla.edu/people/qi-miao-phd). 
 I also engage in collaborative research with [Dr. Wayne Brisbane](https://www.uclahealth.org/providers/wayne-brisbane)'s group. 
 <!-- I work on using artificial intelligence and medical data to develop advanced medical imaging and diagnostic algorithms.  -->
-My current research focuses on data-driven medical image enhancement.
+My current research focuses on data-driven medical image enhancement, including super-resolution, denoising, reformation, etc.
 I am also interested in some other general medical imaging topics, like segmentation & detection, and foundation models.
-<!-- , including super-resolution, denoising, reformation, etc. -->
 <!-- applying generative AI to -->
+I was an Oncology - Deep Learning Researcher Intern at [Bristol Myers Squibb](https://www.bms.com/) during 2025 summer.
 
 Outside of academia, I enjoy soccer, billiards, movies and musicals. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I am also a long-time player of [EA Sports FC](https://www.ea.com/games/ea-sports-fc).
 
 :raised_hands: ***Feel free to drop me an email if you are interested in my research projects or potential collaboration.*** 
 
-<span style="font-size: 15px;">
-👨‍💻 <i><b>I will be joining <a href="https://www.bms.com/">Bristol Myers Squibb</a> as an Oncology - Deep Learning Researcher Intern during 2025 summer.</b></i>
-</span>
 <br><br>
 <span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
 Modestly, Devoutly, Boldly.
