@@ -41,4 +41,4 @@ design:
 - Teaching Assistant: Break Through Tech AI-Machine Learning and Data Science, UCLA, Summer (2023)
 <!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} --> 
+{{% /callout %}}  -->
