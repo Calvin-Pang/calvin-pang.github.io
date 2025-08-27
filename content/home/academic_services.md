@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 95
+weight: 60
 
 title: Academic services
 subtitle: ''
