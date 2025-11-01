@@ -53,7 +53,7 @@ My current research focuses on data-driven medical image enhancement, including 
 I am also interested in some other general medical imaging topics, like segmentation & detection, and foundation models. 
 I was an Oncology - Deep Learning Researcher Intern at [Bristol Myers Squibb](https://www.bms.com/) during 2025 summer.
 
-Outside of academia, I enjoy soccer, billiards, movies and musicals. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I am also a long-time player of [EA Sports FC](https://www.ea.com/games/ea-sports-fc).
+Outside of academia, I enjoy soccer, billiards, bouldering and musicals. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I am also a long-time player of [EA Sports FC](https://www.ea.com/games/ea-sports-fc).
 
 :raised_hands: ***Feel free to drop me an email if you are interested in my research projects or potential collaboration.*** 
 
