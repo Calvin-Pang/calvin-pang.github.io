@@ -49,4 +49,7 @@ personal recipes of coffee. Feel free to have a try and they will not let you do
 
 - Upside Down: This small cafe is just opposite my office, so I go there almost every day for a coffee. 
   + My favorite order is an **Iced Caffè Latte with oat milk and brown sugar syrup**.  I originally chose brown sugar syrup because they don’t have hazelnut syrup. But trust me, you will be pleasantly surprised by how good it tastes. (By the way, they have really good Chocolate Croissant.)
+
+  {{< figure src="chocolate.jpeg" title="Chocolate Croissants" alt="Chocolate Croissants" width="300px" caption="Chocolate Croissants" >}}
+  
   + Recently, I tried the **Iced Matcha Latte with oat milk and brown sugar syrup** and it tastes wonderful as well!
