@@ -5,7 +5,8 @@
 
 title: Kaifeng's Website  # Website name
 baseURL: "https://kfpang.com/" # Website URL
-
+relativeURLs: true
+canonifyURLs: true
 ############################
 ## LANGUAGE
 ############################
