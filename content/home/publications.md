@@ -46,6 +46,10 @@ design:
 
 - **Pang, Kaifeng**, Zuhayr Asad, Shilin Zhao, and Yuankai Huo. "MAg: a simple learning-based patient-level aggregation method for detecting microsatellite instability from whole-slide images." In 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI), pp. 1-4. IEEE, 2022. **(oral)** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) [[code]](https://github.com/Calvin-Pang/MAg) [[presentation]](https://youtu.be/Ln60y3aGthc)
 
+- Li, Junying, Qingyang Hou, **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Elif Aygun, Shu-Fu Shih, Qing Dai, Holden H. Wu, and Kyunghyun Sung. "CoDe: A Self-Supervised Consistency Model Framework for MRI Denoising." In 2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI), pp. 1-5. IEEE, 2026. **(oral)** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515485) (co-first-author and corresponding author)
+
+- Zhao, Kai, Alex Ling Yu Hung, **Kaifeng Pang**, Parsa Hajipour, Holden Wu, Steve Raman, and Kyunghyun Sung. "PCa-Mamba: Spatiotemporal state space models for prostate cancer detection in multi-parametric MRI." Medical image analysis (2026): 104033. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841526001027)
+
 - Zhao, Kai, **Kaifeng Pang**, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, and Kyunghyun Sung. "MRI Super-Resolution with Partial Diffusion Models." IEEE Transactions on Medical Imaging (2024). [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720924)
 
 - Zhao, Kai, **Kaifeng Pang**, Alex LingYu Hung, Haoxin Zheng, Ran Yan, and Kyunghyun Sung. "A Deep Learning-Based Framework for Highly Accelerated Prostate MR Dispersion Imaging." Cancers 16, no. 17 (2024): 2983. [[paper]](https://www.mdpi.com/2072-6694/16/17/2983)
