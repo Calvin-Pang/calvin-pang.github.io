@@ -41,7 +41,7 @@ highlight_name: true
 ---
 
 
-I am a second-year PhD student in the Department of [Radiological Sciences](https://www.uclahealth.org/departments/radiology) and the Department of [Electrical and Computer Engineering](https://samueli.ucla.edu/) 
+I am a second-year PhD candidate in the Department of [Radiological Sciences](https://www.uclahealth.org/departments/radiology) and the Department of [Electrical and Computer Engineering](https://samueli.ucla.edu/) 
 at [UCLA](https://www.ucla.edu/), where I am privileged to be co-advised by [Prof. Kyung Sung](https://mrrl.ucla.edu/people/kyung-sung-phd) and [Prof. Robert Candler](https://samueli.ucla.edu/people/robert-candler/).
 Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2022, advised by [Prof. Yang Li](https://ieeexplore.ieee.org/author/37676384600). 
 During my undergraduate studies, I was also fortunate to work with [Prof. Yuankai Huo](https://hrlblab.github.io/) at [Vanderbilt University](https://vanderbilt.edu/).  
@@ -49,13 +49,14 @@ During my undergraduate studies, I was also fortunate to work with [Prof. Yuanka
 I am a member of the [Sung Lab](https://mrrl.ucla.edu/labs/sung-lab) within [MRRL Labs](https://mrrl.ucla.edu/), 
 collaborating with [Prof. Kai Zhao](https://kaizhao.net/) and [Dr. Qi Miao](https://mrrl.ucla.edu/people/qi-miao-phd). 
 I also engage in collaborative research with [Prof. Wayne Brisbane](https://www.uclahealth.org/providers/wayne-brisbane)'s group. 
-My current research focuses on data-driven medical image enhancement, including super-resolution, denoising, reformation, etc.
-I am also interested in some other general medical imaging topics, like segmentation & detection, and foundation models. 
+My current research focuses on data-driven medical image enhancement, foundation models, and vision-language models.
 I was an Oncology - Deep Learning Researcher Intern at [Bristol Myers Squibb](https://www.bms.com/) during 2025 summer.
 
 Outside of academia, I enjoy soccer, billiards, bouldering and musicals. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I am also a long-time player of [EA Sports FC](https://www.ea.com/games/ea-sports-fc).
 
 :raised_hands: ***Feel free to drop me an email if you are interested in my research projects or potential collaboration.*** 
+
+:computer: ***I will be joining Samsung Research America (SRA) this summer as a Research Intern.*** 
 
 <br><br>
 <span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
