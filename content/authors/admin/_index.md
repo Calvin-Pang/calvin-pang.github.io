@@ -4,7 +4,9 @@ role: PhD Student at UCLA
 avatar_filename: avatar.jpg
 interests:
   - Medical Imaging
-  - Image Enhancement
+  - Generative Models
+  - Foundation Models
+  - Vision-language Models
 social:
   - icon: envelope
     icon_pack: fas
