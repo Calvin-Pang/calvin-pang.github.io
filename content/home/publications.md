@@ -38,11 +38,13 @@ design:
 
 <div style="font-size: 14px;">
 
-- **Pang, Kaifeng**, Qi Miao, Alex Ling Yu Hung, Kai Zhao, Eunsun Oh, Raymi Ramirez, Wayne Brisbane and Kyunghyun Sung. "MPR-Diff: a Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging." In 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI). [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10981012) [[code]](https://github.com/Calvin-Pang/MPR-Diff) [[poster]](uploads/isbi25-MPRDiff.pdf) 
+- **Pang, Kaifeng**, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Kai Zhao, Qiudi He, Marcel Dominik Nickel, Fei Han, and Kyunghyun Sung. "AICM: An Anatomical-Prior Integrated Conditional Consistency Model for Self-Supervised MRI Through-Plane Super-Resolution." In 2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI), pp. 1-5. IEEE, 2026. **(oral)** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11515945) [[code]](https://github.com/Calvin-Pang/AICM)
+
+- **Pang, Kaifeng**, Qi Miao, Alex Ling Yu Hung, Kai Zhao, Eunsun Oh, Raymi Ramirez, Wayne Brisbane and Kyunghyun Sung. "MPR-Diff: a Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging." In 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI), pp. 1-5. IEEE, 2025. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10981012) [[code]](https://github.com/Calvin-Pang/MPR-Diff) [[poster]](uploads/isbi25-MPRDiff.pdf) 
 
 - **Pang, Kaifeng**, Kai Zhao, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, and Kyunghyun Sung. "NExpR: Neural Explicit Representation for fast arbitrary-scale medical image super-resolution." Computers in Biology and Medicine 184 (2025): 109354. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482524014392) [[code]](https://github.com/Calvin-Pang/NExpR) 
 
-- **Pang, Kaifeng**, Zuhayr Asad, Shilin Zhao, and Yuankai Huo. "MAg: a simple learning-based patient-level aggregation method for detecting microsatellite instability from whole-slide images." In 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI), pp. 1-4. IEEE, 2022. (oral) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) [[code]](https://github.com/Calvin-Pang/MAg) [[presentation]](https://youtu.be/Ln60y3aGthc)
+- **Pang, Kaifeng**, Zuhayr Asad, Shilin Zhao, and Yuankai Huo. "MAg: a simple learning-based patient-level aggregation method for detecting microsatellite instability from whole-slide images." In 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI), pp. 1-4. IEEE, 2022. **(oral)** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) [[code]](https://github.com/Calvin-Pang/MAg) [[presentation]](https://youtu.be/Ln60y3aGthc)
 
 - Zhao, Kai, **Kaifeng Pang**, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, and Kyunghyun Sung. "MRI Super-Resolution with Partial Diffusion Models." IEEE Transactions on Medical Imaging (2024). [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720924)
 
