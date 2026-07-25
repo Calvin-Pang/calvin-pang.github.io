@@ -48,8 +48,7 @@ at [UCLA](https://www.ucla.edu/), where I am privileged to be co-advised by [Pro
 Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and Engineering from [Nanjing University](https://www.nju.edu.cn/en/) in 2022, advised by [Prof. Yang Li](https://ieeexplore.ieee.org/author/37676384600). 
 During my undergraduate studies, I was also fortunate to work with [Prof. Yuankai Huo](https://hrlblab.github.io/) at [Vanderbilt University](https://vanderbilt.edu/).  
 
-I am a member of the [Sung Lab](https://mrrl.ucla.edu/labs/sung-lab) within [MRRL Labs](https://mrrl.ucla.edu/), 
-collaborating with [Prof. Kai Zhao](https://kaizhao.net/) and [Dr. Qi Miao](https://mrrl.ucla.edu/people/qi-miao-phd). 
+I am a member of the [Sung Lab](https://mrrl.ucla.edu/labs/sung-lab) within [MRRL Labs](https://mrrl.ucla.edu/). 
 I also engage in collaborative research with [Prof. Wayne Brisbane](https://www.uclahealth.org/providers/wayne-brisbane)'s group. 
 My current research focuses on data-driven medical image enhancement, foundation models, and vision-language models.
 I was an Oncology - Deep Learning Researcher Intern at [Bristol Myers Squibb](https://www.bms.com/) during 2025 summer.
