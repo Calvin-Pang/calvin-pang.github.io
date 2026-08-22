@@ -61,7 +61,7 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of [A
 
 <br><br>
 <span style="font-family: 'Dancing Script', cursive; font-size: 24px;">
-Modestly, Devoutly, Boldly.
+Mindfully, Compassionately, Boldly.
 </span>
 
 
