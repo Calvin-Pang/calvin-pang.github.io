@@ -27,7 +27,7 @@ design:
 
 I serve as a peer reviewer for journals and conferences, including:
 
-- **Journals:** *IEEE TMI*, *Scientific Reports*, *International Journal of Machine Learning and Cybernetics*, *International Journal of Data Science and Analytics*, *BMC Medical Imaging*, etc.
+- **Journals:** *IEEE TMI*, *Scientific Reports*, *BMC Medical Imaging*, etc.
 
 - **Conferences:** *MICCAI*, *IEEE ISBI*, *IEEE-EMBS BHI*, etc.
 

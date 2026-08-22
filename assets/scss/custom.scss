@@ -11,6 +11,15 @@
   --site-surface: #ffffff;
 }
 
+.dark {
+  --site-ink: #e7eaf0;
+  --site-muted: #aeb6c2;
+  --site-border: #3a414c;
+  --site-link: #75bdf0;
+  --site-link-hover: #a7d8f8;
+  --site-surface: #20242c;
+}
+
 html {
   max-width: 100%;
   overflow-x: hidden;
@@ -58,7 +67,7 @@ a:hover,
 }
 
 .navbar .navbar-nav .nav-link {
-  color: #4d5661 !important;
+  color: var(--site-muted) !important;
   font-size: 0.9rem;
   font-weight: 500;
   padding-left: 0.8rem !important;
@@ -73,7 +82,7 @@ a:hover,
 .navbar-light .navbar-toggler,
 .navbar-light .navbar-toggler i {
   border-color: transparent;
-  color: #3f4852 !important;
+  color: var(--site-ink) !important;
 }
 
 .home-section,
@@ -91,7 +100,7 @@ a:hover,
 }
 
 .home-section h1 {
-  color: #20252b;
+  color: var(--site-ink);
   font-size: 1.55rem;
   font-weight: 650;
   letter-spacing: -0.025em;
@@ -128,7 +137,7 @@ a:hover,
 }
 
 #profile .portrait-title h2 {
-  color: #20252b;
+  color: var(--site-ink);
   font-size: 1.35rem;
   font-weight: 650;
   letter-spacing: -0.02em;
@@ -153,7 +162,7 @@ a:hover,
 }
 
 #profile .network-icon .big-icon {
-  color: #4f5965;
+  color: var(--site-muted);
   font-size: 1.25rem;
 }
 
@@ -166,7 +175,7 @@ a:hover,
 }
 
 #about .article-style {
-  color: #3b424a;
+  color: var(--site-ink);
   font-size: 0.97rem;
 }
 
@@ -175,7 +184,7 @@ a:hover,
 }
 
 #about .section-subheading {
-  color: #303740;
+  color: var(--site-ink);
   font-size: 1rem;
   font-weight: 650;
   margin-top: 1.1rem;
@@ -183,7 +192,7 @@ a:hover,
 
 #about .ul-interests,
 #about .ul-edu {
-  color: #4a535e;
+  color: var(--site-muted);
   font-size: 0.9rem;
 }
 
@@ -195,7 +204,7 @@ a:hover,
 
 // Compact posts and CV-like lists.
 .stream-item {
-  border-bottom: 1px solid #edf0f2;
+  border-bottom: 1px solid var(--site-border);
   margin-bottom: 0;
   padding: 0.85rem 0;
 }
@@ -229,7 +238,7 @@ a:hover,
 
 #publications li,
 #academic-service li {
-  border-bottom: 1px solid #edf0f2;
+  border-bottom: 1px solid var(--site-border);
   padding: 0.8rem 0;
 }
 
@@ -259,9 +268,7 @@ a:hover,
   display: none;
 }
 
-// This design intentionally uses one consistent light palette. Wowchemy can
-// otherwise apply its dark theme automatically from the operating system even
-// when the theme switch is hidden.
+// Reapply the custom palette over Wowchemy's built-in dark-theme selectors.
 body.dark,
 .dark .home-section,
 .dark .home-section:nth-of-type(even),
@@ -277,7 +284,7 @@ body.dark,
 .dark h5,
 .dark h6,
 .dark #profile .portrait-title h2 {
-  color: #20252b;
+  color: var(--site-ink);
 }
 
 .dark #profile .portrait-title h3,
@@ -291,12 +298,21 @@ body.dark,
 }
 
 .dark #profile .network-icon .big-icon {
-  color: #4f5965;
+  color: var(--site-muted);
 }
 
 .dark .article-title a,
 .dark .home-section a:not(.btn) {
   color: var(--site-link);
+}
+
+.dark .navbar {
+  background: rgba(32, 36, 44, 0.96) !important;
+  border-bottom-color: var(--site-border);
+}
+
+.dark #about .ul-edu .institution {
+  color: var(--site-muted);
 }
 
 // Desktop: persistent profile column with all sections aligned to the main text.
