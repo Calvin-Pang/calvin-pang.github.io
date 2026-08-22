@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Kaifeng's Website  # Website name
+title: Kaifeng Pang  # Website name
 baseURL: "https://kfpang.com/" # Website URL
 relativeURLs: true
 canonifyURLs: true

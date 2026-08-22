@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Academic Service
+  - name: Service
     url: '#academic-service'
     weight: 60
 

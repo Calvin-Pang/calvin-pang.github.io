@@ -8,7 +8,7 @@ headless: true
 # Display this section after Publications.
 weight: 60
 
-title: Academic Service
+title: 🖋️ Academic Service
 subtitle: ''
 
 content:

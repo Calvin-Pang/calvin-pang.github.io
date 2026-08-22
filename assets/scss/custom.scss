@@ -1,0 +1,401 @@
+// Reference-inspired academic profile layout.
+// Keeps the existing Wowchemy content model while presenting it in a compact,
+// two-column format similar to modern academic CV websites.
+
+:root {
+  --site-ink: #2f343b;
+  --site-muted: #68717d;
+  --site-border: #e4e7eb;
+  --site-link: #2774ae;
+  --site-link-hover: #005587;
+  --site-surface: #ffffff;
+}
+
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  scroll-padding-top: 76px;
+}
+
+body {
+  background: var(--site-surface);
+  color: var(--site-ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+a,
+.article-style a {
+  color: var(--site-link);
+  text-decoration: none;
+}
+
+a:hover,
+.article-style a:hover {
+  color: var(--site-link-hover);
+  text-decoration: underline;
+}
+
+// Slim, quiet masthead matching the reference site's navigation.
+.navbar {
+  min-height: 64px;
+  background: rgba(255, 255, 255, 0.96) !important;
+  border-bottom: 1px solid var(--site-border);
+  box-shadow: none !important;
+  backdrop-filter: blur(10px);
+}
+
+.navbar-brand {
+  color: var(--site-ink) !important;
+  font-size: 1.05rem;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #4d5661 !important;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding-left: 0.8rem !important;
+  padding-right: 0.8rem !important;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link.active {
+  color: var(--site-link) !important;
+}
+
+.navbar-light .navbar-toggler,
+.navbar-light .navbar-toggler i {
+  border-color: transparent;
+  color: #3f4852 !important;
+}
+
+.home-section,
+.home-section:nth-of-type(even) {
+  background: var(--site-surface);
+  padding: 2.1rem 0;
+}
+
+.home-section:first-of-type {
+  padding-top: 4.5rem;
+}
+
+.home-section .container {
+  max-width: 1120px;
+}
+
+.home-section h1 {
+  color: #20252b;
+  font-size: 1.55rem;
+  font-weight: 650;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+}
+
+.home-section:not(#about) .section-heading {
+  border-bottom: 1px solid var(--site-border);
+  margin-bottom: 1rem !important;
+  padding-bottom: 0.6rem;
+}
+
+.home-section:not(#about) .section-heading h1 {
+  margin: 0;
+}
+
+.home-section .section-heading p {
+  color: var(--site-muted);
+  font-size: 0.88rem;
+  margin-bottom: 0;
+}
+
+// Profile sidebar.
+#profile {
+  text-align: left;
+}
+
+#profile .avatar {
+  width: 172px;
+  height: 172px;
+  margin: 0 0 1rem;
+  border: 1px solid var(--site-border);
+  box-shadow: 0 4px 18px rgba(36, 46, 58, 0.08);
+}
+
+#profile .portrait-title h2 {
+  color: #20252b;
+  font-size: 1.35rem;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+#profile .portrait-title h3 {
+  color: var(--site-muted);
+  font-size: 0.88rem;
+  font-weight: 400;
+  line-height: 1.45;
+  margin: 0.15rem 0;
+}
+
+#profile .network-icon {
+  justify-content: flex-start;
+  margin-top: 0.9rem;
+  padding: 0;
+}
+
+#profile .network-icon li {
+  margin-right: 0.7rem;
+}
+
+#profile .network-icon .big-icon {
+  color: #4f5965;
+  font-size: 1.25rem;
+}
+
+#profile .network-icon a:hover .big-icon {
+  color: var(--site-link);
+}
+
+#about h1 {
+  margin: 0 0 1rem;
+}
+
+#about .article-style {
+  color: #3b424a;
+  font-size: 0.97rem;
+}
+
+#about .article-style p {
+  margin-bottom: 0.9rem;
+}
+
+#about .section-subheading {
+  color: #303740;
+  font-size: 1rem;
+  font-weight: 650;
+  margin-top: 1.1rem;
+}
+
+#about .ul-interests,
+#about .ul-edu {
+  color: #4a535e;
+  font-size: 0.9rem;
+}
+
+#about .ul-edu .course,
+#about .ul-edu .institution {
+  font-size: 0.9rem;
+  margin-bottom: 0.1rem;
+}
+
+// Compact posts and CV-like lists.
+.stream-item {
+  border-bottom: 1px solid #edf0f2;
+  margin-bottom: 0;
+  padding: 0.85rem 0;
+}
+
+.stream-item:first-child {
+  padding-top: 0.15rem;
+}
+
+.stream-item .article-title {
+  font-size: 1.02rem;
+  font-weight: 600;
+}
+
+.stream-item .article-style,
+.stream-item .article-metadata {
+  color: var(--site-muted);
+  font-size: 0.82rem;
+}
+
+#publications .col-lg-8 > div,
+#academic-service .col-lg-8 > div {
+  font-size: 0.9rem !important;
+}
+
+#publications ul,
+#academic-service ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#publications li,
+#academic-service li {
+  border-bottom: 1px solid #edf0f2;
+  padding: 0.8rem 0;
+}
+
+#publications li:first-child,
+#academic-service li:first-child {
+  padding-top: 0.1rem;
+}
+
+#publications li p,
+#academic-service li p {
+  margin: 0;
+}
+
+#publications li a {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.page-footer {
+  background: var(--site-surface);
+  border-top: 1px solid var(--site-border);
+  color: var(--site-muted);
+  font-size: 0.78rem;
+}
+
+.site-footer .powered-by:last-child {
+  display: none;
+}
+
+// This design intentionally uses one consistent light palette. Wowchemy can
+// otherwise apply its dark theme automatically from the operating system even
+// when the theme switch is hidden.
+body.dark,
+.dark .home-section,
+.dark .home-section:nth-of-type(even),
+.dark .page-footer {
+  background: var(--site-surface);
+  color: var(--site-ink);
+}
+
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6,
+.dark #profile .portrait-title h2 {
+  color: #20252b;
+}
+
+.dark #profile .portrait-title h3,
+.dark #about .article-style,
+.dark #about .ul-interests,
+.dark #about .ul-edu,
+.dark .stream-item .article-style,
+.dark .stream-item .article-metadata,
+.dark .site-footer {
+  color: var(--site-muted);
+}
+
+.dark #profile .network-icon .big-icon {
+  color: #4f5965;
+}
+
+.dark .article-title a,
+.dark .home-section a:not(.btn) {
+  color: var(--site-link);
+}
+
+// Desktop: persistent profile column with all sections aligned to the main text.
+@media (min-width: 992px) {
+  #about > .container > .row,
+  .home-section:not(#about) > .container > .row {
+    display: grid;
+    grid-template-columns: 220px minmax(0, 1fr);
+    column-gap: 64px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  #about > .container > .row > .col-lg-4,
+  #about > .container > .row > .col-lg-8,
+  .home-section:not(#about) > .container > .row > .section-heading,
+  .home-section:not(#about) > .container > .row > .col-lg-8 {
+    max-width: none;
+    padding-left: 0;
+    padding-right: 0;
+    width: auto;
+  }
+
+  #about > .container > .row > .col-lg-4 {
+    grid-column: 1;
+  }
+
+  #about > .container > .row > .col-lg-8,
+  .home-section:not(#about) > .container > .row > .section-heading,
+  .home-section:not(#about) > .container > .row > .col-lg-8 {
+    grid-column: 2;
+  }
+
+  .home-section:not(#about) > .container > .row > .section-heading {
+    align-items: flex-start !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .home-section,
+  .home-section:first-of-type {
+    padding: 1.8rem 0;
+  }
+
+  #profile {
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+
+  #profile .avatar {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #profile .network-icon {
+    justify-content: center;
+  }
+
+  .home-section:not(#about) .section-heading {
+    align-items: flex-start !important;
+    text-align: left;
+  }
+
+  .home-section > .container > .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .home-section > .container > .row > [class*="col-"] {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+
+  .article-style,
+  #publications li,
+  #academic-service li {
+    overflow-wrap: anywhere;
+  }
+}
+
+@media (max-width: 575.98px) {
+  body {
+    font-size: 15px;
+  }
+
+  .home-section .container {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+
+  .home-section h1 {
+    font-size: 1.4rem;
+  }
+
+  #profile .avatar {
+    width: 148px;
+    height: 148px;
+  }
+}
