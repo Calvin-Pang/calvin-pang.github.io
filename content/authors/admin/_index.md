@@ -4,9 +4,9 @@ role: PhD Student at UCLA
 avatar_filename: avatar.jpg
 interests:
   - Medical Imaging
-  - Generative Models
+  - Computational Imaging
   - Foundation Models
-  - Vision-language Models
+  - Generative Models
 social:
   - icon: envelope
     icon_pack: fas
@@ -50,7 +50,7 @@ During my undergraduate studies, I was also fortunate to work with [Prof. Yuanka
 
 I am a member of the [Sung Lab](https://mrrl.ucla.edu/labs/sung-lab) within [MRRL Labs](https://mrrl.ucla.edu/).
 I also engage in collaborative research with [Prof. Wayne Brisbane](https://www.uclahealth.org/providers/wayne-brisbane)'s group. 
-My current research focuses on data-driven medical image enhancement, foundation models, and vision-language models.
+My current research focuses on data-driven medical image enhancement, generative models, and foundation models.
 I was an Oncology - Deep Learning Researcher Intern at [Bristol Myers Squibb](https://www.bms.com/) during 2025 summer.
 
 Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of [Arsenal](https://www.arsenal.com/) and [Miami Heat](https://www.nba.com/heat). I am also a long-time player of [EA Sports FC](https://www.ea.com/games/ea-sports-fc).
