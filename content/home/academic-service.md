@@ -1,6 +1,6 @@
 ---
-# An instance of the Blank widget.
-widget: blank
+# An instance of the Pages widget.
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -11,7 +11,15 @@ weight: 60
 title: Academic Service
 subtitle: ''
 
+content:
+  # This section uses hand-written content rather than generated page entries.
+  filters:
+    folders:
+      - academic-service
+  count: 0
+
 design:
+  view: compact
   columns: '2'
 ---
 
