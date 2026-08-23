@@ -132,18 +132,24 @@ h1:before, .anchor:before {
     }
 }
 
-.personal-motto {
+.site-closing-motto {
     border-top: 1px solid $border-color;
-    color: $info-color;
-    font-family: $serif;
-    font-size: 3em;
-    font-style: italic;
-    font-weight: 700;
-    letter-spacing: .015em;
-    line-height: 1.2;
-    margin: 2em 0 .75em;
-    padding-top: 1.25em;
+    box-sizing: border-box;
+    margin: 4em 0 0;
+    padding: 2.25em 1em 2em;
     text-align: center;
+    width: 100%;
+
+    p {
+        color: $info-color;
+        font-family: $serif;
+        font-size: 4.25em;
+        font-style: italic;
+        font-weight: 700;
+        letter-spacing: .015em;
+        line-height: 1.15;
+        margin: 0;
+    }
 }
 
 .profile-details-grid {
@@ -320,9 +326,17 @@ html.theme-dark {
     .post-summary,
     .page__meta,
     .post-subtitle,
-    .personal-motto,
+    .site-closing-motto p,
     figcaption {
         color: #aeb7c4;
+    }
+
+    .site-closing-motto {
+        border-color: #3b424d;
+
+        p {
+            color: #75bdf0;
+        }
     }
 
     .author__avatar img {
@@ -352,8 +366,13 @@ html.theme-dark {
 }
 
 @media (max-width: 767px) {
-    .personal-motto {
-        font-size: 2.15em;
+    .site-closing-motto {
+        margin-top: 3em;
+        padding: 1.75em .75em 1.5em;
+
+        p {
+            font-size: 2.5em;
+        }
     }
 
     .paper-box .paper-box-image img {

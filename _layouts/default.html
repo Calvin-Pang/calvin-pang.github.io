@@ -26,6 +26,12 @@
       </article>
     </div>
 
+    {% if page.closing_motto %}
+      <section class="site-closing-motto" aria-label="Personal motto">
+        <p>{{ page.closing_motto }}</p>
+      </section>
+    {% endif %}
+
     {% include scripts.html %}
 
   </body>

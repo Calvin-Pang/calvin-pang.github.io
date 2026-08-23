@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+closing_motto: "Mindfully, Compassionately, Boldly."
 redirect_from:
   - /about/
   - /about.html
@@ -93,5 +94,3 @@ Please refer to my [Google Scholar page](https://scholar.google.com/citations?us
 
 - **Journals:** *IEEE Transactions on Medical Imaging (TMI)*, *Scientific Reports*, *BMC Medical Imaging*, etc.
 - **Conferences:** *MICCAI*, *IEEE ISBI*, and *IEEE-EMBS BHI*, etc.
-
-<p class="personal-motto">Mindfully, Compassionately, Boldly.</p>
