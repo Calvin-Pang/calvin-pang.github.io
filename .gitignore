@@ -14,4 +14,4 @@ _site/
 .bundle/
 .jekyll-cache/
 .sass-cache/
-vendor/
+/vendor/
