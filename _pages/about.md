@@ -1,0 +1,136 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+<span class="anchor" id="about-me"></span>
+
+<p style="text-align: justify;">
+I am a second-year PhD candidate in the Department of <a href="https://www.uclahealth.org/departments/radiology">Radiological Sciences</a> and the Department of <a href="https://samueli.ucla.edu/">Electrical and Computer Engineering</a> at <a href="https://www.ucla.edu/">UCLA</a>, where I am privileged to be co-advised by <a href="https://mrrl.ucla.edu/people/kyung-sung-phd">Prof. Kyung Sung</a> and <a href="https://samueli.ucla.edu/people/robert-candler/">Prof. Robert Candler</a>. Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and Engineering from <a href="https://www.nju.edu.cn/en/">Nanjing University</a> in 2022, advised by <a href="https://ieeexplore.ieee.org/author/37676384600">Prof. Yang Li</a>. During my undergraduate studies, I was also fortunate to work with <a href="https://hrlblab.github.io/">Prof. Yuankai Huo</a> at <a href="https://vanderbilt.edu/">Vanderbilt University</a>.
+</p>
+
+<p style="text-align: justify;">
+I am a member of the <a href="https://mrrl.ucla.edu/labs/sung-lab">Sung Lab</a> within <a href="https://mrrl.ucla.edu/">MRRL Labs</a>. I also engage in collaborative research with <a href="https://www.uclahealth.org/providers/wayne-brisbane">Prof. Wayne Brisbane</a>'s group. My current research focuses on data-driven medical image enhancement, generative models, and foundation models. I was an Oncology–Deep Learning Researcher Intern at <a href="https://www.bms.com/">Bristol Myers Squibb</a> during summer 2025.
+</p>
+
+<p style="text-align: justify;">
+Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a href="https://www.arsenal.com/">Arsenal</a> and the <a href="https://www.nba.com/heat">Miami Heat</a>. I am also a long-time player of <a href="https://www.ea.com/games/ea-sports-fc">EA Sports FC</a>.
+</p>
+
+<div class="profile-callouts">
+  <p>🙌 <strong>Feel free to drop me an email if you are interested in my research projects or potential collaboration.</strong></p>
+  <p>💻 <strong>I will be joining Samsung Research America (SRA) this summer as a Research Intern.</strong></p>
+</div>
+
+<p class="personal-motto">Mindfully, Compassionately, Boldly.</p>
+
+<div class="profile-details-grid">
+  <div>
+    <h2>Research Interests</h2>
+    <ul>
+      <li>Medical Imaging</li>
+      <li>Computational Imaging</li>
+      <li>Foundation Models</li>
+      <li>Generative Models</li>
+    </ul>
+  </div>
+  <div>
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Ph.D., Electrical and Computer Engineering</strong><br>University of California, Los Angeles, 2024–Now</li>
+      <li><strong>M.S., Electrical and Computer Engineering</strong><br>University of California, Los Angeles, 2022–2024</li>
+      <li><strong>B.Eng., Electronic Science and Engineering</strong><br>Nanjing University, 2018–2022</li>
+    </ul>
+  </div>
+</div>
+
+<span class="anchor" id="recent-posts"></span>
+
+# ✍️ Recent Posts
+
+<ul class="post-list">
+{% for post in site.posts %}
+  <li>
+    <span class="post-date">{{ post.date | date: "%Y.%m.%d" }}</span>
+    <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a>
+    {% if post.summary %}<span class="post-summary">— {{ post.summary }}</span>{% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+<span class="anchor" id="selected-publications"></span>
+
+# 📝 Selected Publications
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ISBI 2026 · Oral</div><img src="/images/aicm.svg" alt="AICM method overview" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+## AICM: An Anatomical-Prior Integrated Conditional Consistency Model for Self-Supervised MRI Through-Plane Super-Resolution
+
+**Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Kai Zhao, Qiudi He, Marcel Dominik Nickel, Fei Han, Kyunghyun Sung
+
+[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11515945) \| [**Code**](https://github.com/Calvin-Pang/AICM)
+
+- A self-supervised, single-step consistency model that integrates anatomical priors for MRI through-plane super-resolution.
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ISBI 2025</div><img src="/images/mprdiff.jpg" alt="MPR-Diff poster" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+## MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging
+
+**Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Kai Zhao, Eunsun Oh, Raymi Ramirez, Wayne Brisbane, Kyunghyun Sung
+
+[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10981012) \| [**Code**](https://github.com/Calvin-Pang/MPR-Diff) \| [**Poster**](/uploads/isbi25-MPRDiff.pdf)
+
+- A self-supervised diffusion framework for multi-planar reformation of prostate micro-ultrasound imaging.
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CBM 2025</div><img src="/images/nexpr.jpg" alt="NExpR method overview" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+## NExpR: Neural Explicit Representation for Fast Arbitrary-Scale Medical Image Super-Resolution
+
+**Kaifeng Pang**, Kai Zhao, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, Kyunghyun Sung
+
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0010482524014392) \| [**Code**](https://github.com/Calvin-Pang/NExpR)
+
+- A neural explicit representation for fast, continuous arbitrary-scale medical image super-resolution.
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ISBI 2022 · Oral</div><img src="/images/mag.png" alt="MAg method overview" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+## MAg: A Simple Learning-Based Patient-Level Aggregation Method for Detecting Microsatellite Instability from Whole-Slide Images
+
+**Kaifeng Pang**, Zuhayr Asad, Shilin Zhao, Yuankai Huo
+
+[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) \| [**Code**](https://github.com/Calvin-Pang/MAg) \| [**Presentation**](https://youtu.be/Ln60y3aGthc)
+
+- Histogram-based patient-level aggregation for microsatellite-instability detection from whole-slide images.
+</div></div>
+
+## Additional Publications
+
+<ul class="compact-publications">
+  <li><span class="venue-badge">ISBI 2026 · Oral</span> <strong>CoDe: A Self-Supervised Consistency Model Framework for MRI Denoising.</strong><br>Junying Li, Qingyang Hou, <strong>Kaifeng Pang</strong>, Qi Miao, Alex Ling Yu Hung, Elif Aygun, Shu-Fu Shih, Qing Dai, Holden H. Wu, Kyunghyun Sung. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515485">Paper</a>. <em>Co-first author and corresponding author.</em></li>
+  <li><span class="venue-badge">MedIA 2026</span> <strong>PCa-Mamba: Spatiotemporal State Space Models for Prostate Cancer Detection in Multi-Parametric MRI.</strong><br>Kai Zhao, Alex Ling Yu Hung, <strong>Kaifeng Pang</strong>, Parsa Hajipour, Holden Wu, Steve Raman, Kyunghyun Sung. <a href="https://www.sciencedirect.com/science/article/pii/S1361841526001027">Paper</a>.</li>
+  <li><span class="venue-badge">TMI 2024</span> <strong>MRI Super-Resolution with Partial Diffusion Models.</strong><br>Kai Zhao, <strong>Kaifeng Pang</strong>, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, Kyunghyun Sung. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720924">Paper</a>.</li>
+  <li><span class="venue-badge">Cancers 2024</span> <strong>A Deep Learning-Based Framework for Highly Accelerated Prostate MR Dispersion Imaging.</strong><br>Kai Zhao, <strong>Kaifeng Pang</strong>, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, Kyunghyun Sung. <a href="https://www.mdpi.com/2072-6694/16/17/2983">Paper</a>.</li>
+  <li><span class="venue-badge">MICCAI 2024</span> <strong>Cross-Slice Attention and Evidential Critical Loss for Uncertainty-Aware Prostate Cancer Detection.</strong><br>Alex Ling Yu Hung, Haoxin Zheng, Kai Zhao, <strong>Kaifeng Pang</strong>, Demetri Terzopoulos, Kyunghyun Sung. <a href="https://arxiv.org/pdf/2407.01146">Paper</a>.</li>
+  <li><span class="venue-badge">WACV 2024</span> <strong>CSAM: A 2.5D Cross-Slice Attention Module for Anisotropic Volumetric Medical Image Segmentation.</strong><br>Alex Ling Yu Hung, Haoxin Zheng, Kai Zhao, Xiaoxi Du, <strong>Kaifeng Pang</strong>, Qi Miao, Steven S. Raman, Demetri Terzopoulos, Kyunghyun Sung. <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Hung_CSAM_A_2.5D_Cross-Slice_Attention_Module_for_Anisotropic_Volumetric_Medical_WACV_2024_paper.pdf">Paper</a>.</li>
+</ul>
+
+Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en) for the full list.
+
+<span class="anchor" id="academic-service"></span>
+
+# 🖋️ Academic Service
+
+- **Journals:** *IEEE Transactions on Medical Imaging (TMI)*, *Scientific Reports*, *International Journal of Data Science and Analytics*, *Discover Computing*, *BMC Medical Imaging*, *International Journal of Computational Intelligence Systems*, *International Journal of Machine Learning and Cybernetics*, *Multimedia Systems*, and *Signal, Image and Video Processing*.
+- **Conferences:** *Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, *IEEE International Symposium on Biomedical Imaging (ISBI)*, and *IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)*.

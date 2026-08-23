@@ -1,0 +1,358 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+/* Kaifeng Pang site additions */
+
+.theme-toggle {
+    appearance: none;
+    background: transparent;
+    border: 0;
+    color: $masthead-link-color;
+    cursor: pointer;
+    font-size: 1em;
+    padding: 0.45em 0.6em;
+
+    &:hover {
+        color: $masthead-link-color-hover;
+    }
+}
+
+.profile-callouts {
+    margin: 1.1em 0;
+
+    p {
+        margin-bottom: .5em;
+    }
+}
+
+.personal-motto {
+    color: $gray;
+    font-family: $serif;
+    font-size: 1.35em;
+    font-style: italic;
+    margin: 1.4em 0;
+}
+
+.profile-details-grid {
+    display: grid;
+    gap: 1.5em;
+    margin: 1.25em 0 2.25em;
+
+    h2 {
+        border-bottom: 1px solid $border-color;
+        padding-bottom: .4em;
+    }
+
+    ul {
+        margin-bottom: 0;
+    }
+
+    @include breakpoint($medium) {
+        grid-template-columns: .8fr 1.2fr;
+    }
+}
+
+.post-list {
+    list-style: none;
+    padding-left: 0;
+
+    li {
+        border-bottom: 1px solid $border-color;
+        padding: .55em 0;
+    }
+
+    .post-date {
+        color: $gray;
+        display: inline-block;
+        font-variant-numeric: tabular-nums;
+        min-width: 6.5em;
+    }
+
+    .post-summary {
+        color: $gray;
+    }
+}
+
+.paper-box .paper-box-image img {
+    background: #f7f8fa;
+    height: 190px;
+    object-fit: contain;
+    width: 100%;
+}
+
+.paper-box .paper-box-text h2 {
+    margin-top: .25em;
+}
+
+.compact-publications {
+    list-style: none;
+    padding-left: 0;
+
+    li {
+        border-bottom: 1px solid $border-color;
+        padding: .8em 0;
+    }
+}
+
+.venue-badge {
+    background: #00369f;
+    color: #fff;
+    display: inline-block;
+    font-size: .72em;
+    font-weight: bold;
+    margin-bottom: .35em;
+    margin-right: .35em;
+    padding: .2em .5em;
+}
+
+.post-header {
+    border-bottom: 1px solid $border-color;
+    margin-bottom: 1.5em;
+    padding-bottom: 1em;
+}
+
+.post-back,
+.page__meta,
+.post-subtitle {
+    color: $gray;
+}
+
+.post-back {
+    font-size: .9em;
+}
+
+.post-subtitle {
+    font-size: 1.1em;
+    margin-top: -.35em;
+}
+
+.post-figure {
+    display: block;
+    margin: 1.5em auto;
+    max-width: 560px;
+    text-align: center;
+
+    img {
+        border-radius: 4px;
+        margin-bottom: .4em;
+        width: 100%;
+    }
+
+    figcaption {
+        color: $gray;
+        font-size: .85em;
+    }
+}
+
+html.theme-dark {
+    color-scheme: dark;
+
+    body {
+        background: #20242c;
+        color: #d8dee9;
+    }
+
+    .masthead {
+        background: #20242c;
+        border-bottom-color: #3b424d;
+    }
+
+    a,
+    .page__content a {
+        color: #75bdf0;
+    }
+
+    .greedy-nav,
+    .greedy-nav .visible-links,
+    .greedy-nav .hidden-links {
+        background: #20242c;
+    }
+
+    .greedy-nav .hidden-links {
+        border-color: #3b424d;
+
+        li {
+            border-color: #3b424d;
+        }
+
+        a:hover {
+            background: #2b313b;
+        }
+
+        &:before {
+            border-color: #3b424d transparent;
+        }
+
+        &:after {
+            border-color: #20242c transparent;
+        }
+    }
+
+    .greedy-nav a,
+    .theme-toggle,
+    .author__name,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #edf1f7;
+    }
+
+    .author__bio,
+    .author__urls,
+    .author__urls a,
+    .post-date,
+    .post-summary,
+    .page__meta,
+    .post-subtitle,
+    .personal-motto,
+    figcaption {
+        color: #aeb7c4;
+    }
+
+    .author__avatar img {
+        border-color: #49515d;
+    }
+
+    .paper-box,
+    .compact-publications li,
+    .post-list li,
+    .profile-details-grid h2,
+    .post-header {
+        border-color: #3b424d;
+    }
+
+    .paper-box .paper-box-image img {
+        background: #292e38;
+        box-shadow: 3px 3px 8px #11151b;
+    }
+
+    code,
+    p > code,
+    li > code {
+        background: #2b313b;
+        border-color: #424a57;
+        color: #e5e9f0;
+    }
+}
+
+@media (max-width: 767px) {
+    .paper-box .paper-box-image img {
+        height: auto;
+        max-height: 260px;
+    }
+
+    .post-list .post-date {
+        display: block;
+        margin-bottom: .1em;
+    }
+}

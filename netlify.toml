@@ -1,21 +1,16 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  command = "bundle exec jekyll build"
+  publish = "_site"
 
 [build.environment]
-  HUGO_VERSION = "0.97.3"
-  HUGO_ENABLEGITINFO = "true"
+  JEKYLL_ENV = "production"
+  RUBY_VERSION = "3.1.4"
 
 [context.production.environment]
-  HUGO_ENV = "production"
+  JEKYLL_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "bundle exec jekyll build"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
-  [plugins.inputs]
-    debug = true
+  command = "bundle exec jekyll build"

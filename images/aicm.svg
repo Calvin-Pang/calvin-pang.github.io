@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="title description">
+  <title id="title">AICM method overview</title>
+  <desc id="description">Low-resolution MRI slices and anatomical priors feed a conditional consistency model that produces a high-resolution MRI volume.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef5fb"/>
+      <stop offset="1" stop-color="#dbeaf6"/>
+    </linearGradient>
+    <linearGradient id="model" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2774ae"/>
+      <stop offset="1" stop-color="#005587"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#163a52" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="720" height="360" rx="24" fill="url(#background)"/>
+  <text x="40" y="55" fill="#17364c" font-family="Arial, sans-serif" font-size="28" font-weight="700">AICM</text>
+  <text x="40" y="82" fill="#527084" font-family="Arial, sans-serif" font-size="15">Anatomical-prior integrated consistency modeling</text>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="123" width="145" height="150" rx="15" fill="#fff"/>
+    <rect x="58" y="142" width="80" height="94" rx="8" fill="#d9dde2"/>
+    <ellipse cx="98" cy="189" rx="28" ry="36" fill="#717b86"/>
+    <ellipse cx="98" cy="189" rx="14" ry="24" fill="#bac2ca"/>
+    <rect x="73" y="153" width="80" height="94" rx="8" fill="none" stroke="#2774ae" stroke-width="3"/>
+    <text x="114" y="257" text-anchor="middle" fill="#36566c" font-family="Arial, sans-serif" font-size="14">Thick-slice MRI</text>
+  </g>
+
+  <path d="M203 198h53" stroke="#7695aa" stroke-width="4" stroke-linecap="round"/>
+  <path d="m250 190 12 8-12 8" fill="none" stroke="#7695aa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="275" y="112" width="178" height="172" rx="18" fill="url(#model)"/>
+    <circle cx="364" cy="155" r="23" fill="#fff" fill-opacity=".18"/>
+    <path d="M349 155h30M364 140v30" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+    <text x="364" y="211" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="700">Conditional</text>
+    <text x="364" y="237" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="700">Consistency Model</text>
+    <text x="364" y="263" text-anchor="middle" fill="#d8efff" font-family="Arial, sans-serif" font-size="13">+ anatomical prior</text>
+  </g>
+
+  <path d="M468 198h53" stroke="#7695aa" stroke-width="4" stroke-linecap="round"/>
+  <path d="m515 190 12 8-12 8" fill="none" stroke="#7695aa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="540" y="123" width="138" height="150" rx="15" fill="#fff"/>
+    <g fill="none" stroke="#2774ae" stroke-width="2.5">
+      <ellipse cx="609" cy="164" rx="32" ry="13"/>
+      <path d="M577 164v52c0 7 14 13 32 13s32-6 32-13v-52"/>
+      <ellipse cx="609" cy="181" rx="32" ry="13"/>
+      <ellipse cx="609" cy="198" rx="32" ry="13"/>
+      <ellipse cx="609" cy="215" rx="32" ry="13"/>
+    </g>
+    <text x="609" y="257" text-anchor="middle" fill="#36566c" font-family="Arial, sans-serif" font-size="14">Thin-slice MRI</text>
+  </g>
+</svg>

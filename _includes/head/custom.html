@@ -1,0 +1,57 @@
+<link rel="icon" type="image/png" href="{{ '/images/icon.png' | relative_url }}">
+
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<style>
+/* Replace Twitter icon with X - black background with white text */
+.fa-twitter::before {
+  content: "𝕏" !important;
+  font-family: "Segoe UI Symbol", "Apple Color Emoji", "Noto Color Emoji", "Segoe UI Emoji", Arial, sans-serif !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  letter-spacing: 0 !important;
+  color: #ffffff !important;
+  background-color: #000000 !important;
+  border-radius: 0.1em !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+  box-sizing: content-box !important;
+  vertical-align: text-bottom !important;
+  padding: 0.2em !important;
+}
+
+/* Desktop: sidebar list with text */
+ul.author__urls.social-icons li .fa-twitter::before {
+  font-size: 0.8em !important;
+  width: 0.74em !important;
+  height: 0.74em !important;
+}
+
+/* Mobile: icon-only view in author__urls_sm - gray background with white X */
+.author__urls_sm .fa-twitter::before {
+  background-color: #494e52 !important;
+  font-size: 0.85em !important;
+  vertical-align: baseline !important;
+  padding: 0.15em !important;
+  width: 0.735em !important;
+  height: 0.735em !important;
+  position: relative !important;
+  top: -0.1em !important;
+}
+</style>
+
+<!-- end custom head snippets -->

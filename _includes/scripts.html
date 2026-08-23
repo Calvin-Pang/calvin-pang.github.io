@@ -1,0 +1,27 @@
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+
+<script>
+  (function () {
+    var toggle = document.querySelector('.theme-toggle');
+    if (!toggle) return;
+
+    function updateIcon() {
+      var dark = document.documentElement.classList.contains('theme-dark');
+      toggle.innerHTML = dark
+        ? '<i class="fas fa-sun" aria-hidden="true"></i>'
+        : '<i class="fas fa-moon" aria-hidden="true"></i>';
+    }
+
+    toggle.addEventListener('click', function (event) {
+      event.preventDefault();
+      document.documentElement.classList.toggle('theme-dark');
+      var dark = document.documentElement.classList.contains('theme-dark');
+      localStorage.setItem('site-theme', dark ? 'dark' : 'light');
+      updateIcon();
+    });
+
+    updateIcon();
+  })();
+</script>
+
+{% if site.google_analytics_id %}{% include analytics.html %}{% endif %}

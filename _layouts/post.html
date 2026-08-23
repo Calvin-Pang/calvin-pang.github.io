@@ -1,0 +1,36 @@
+---
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+
+      <article class="page post-page" itemscope itemtype="https://schema.org/BlogPosting">
+        <div class="page__inner-wrap">
+          <header class="post-header">
+            <p class="post-back"><a href="/#recent-posts">← Back to homepage</a></p>
+            <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
+            {% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
+            <p class="page__meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+          </header>
+
+          <section class="page__content" itemprop="articleBody">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
