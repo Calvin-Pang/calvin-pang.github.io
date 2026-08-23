@@ -133,11 +133,16 @@ h1:before, .anchor:before {
 }
 
 .personal-motto {
-    color: $gray;
+    border-top: 1px solid $border-color;
+    color: $info-color;
     font-family: $serif;
-    font-size: 2em;
+    font-size: 3em;
     font-style: italic;
-    margin: 2.5em 0 1em;
+    font-weight: 700;
+    letter-spacing: .015em;
+    line-height: 1.2;
+    margin: 2em 0 .75em;
+    padding-top: 1.25em;
     text-align: center;
 }
 
@@ -348,7 +353,7 @@ html.theme-dark {
 
 @media (max-width: 767px) {
     .personal-motto {
-        font-size: 1.65em;
+        font-size: 2.15em;
     }
 
     .paper-box .paper-box-image img {
