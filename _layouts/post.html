@@ -22,6 +22,9 @@
             <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
             {% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
             <p class="page__meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+            {% if page.translation_url %}
+              <p class="post-language"><a class="post-language-link" href="{{ page.translation_url | relative_url }}"><i class="fas fa-language" aria-hidden="true"></i> {{ page.translation_label | default: "Read translation" }}</a></p>
+            {% endif %}
           </header>
 
           <section class="page__content" itemprop="articleBody">

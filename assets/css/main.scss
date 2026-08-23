@@ -245,6 +245,26 @@ h1:before, .anchor:before {
     margin-top: -.35em;
 }
 
+.post-language {
+    margin: .85em 0 0;
+}
+
+.post-language-link {
+    border: 1px solid $info-color;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: .9em;
+    font-weight: 700;
+    padding: .4em .7em;
+    text-decoration: none;
+
+    &:hover {
+        background: $info-color;
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
 .post-figure {
     display: block;
     margin: 1.5em auto;
@@ -336,6 +356,15 @@ html.theme-dark {
 
         p {
             color: #75bdf0;
+        }
+    }
+
+    .post-language-link {
+        border-color: #75bdf0;
+
+        &:hover {
+            background: #75bdf0;
+            color: #20242c;
         }
     }
 
