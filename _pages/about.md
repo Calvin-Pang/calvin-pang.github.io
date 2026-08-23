@@ -67,53 +67,25 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
 
 # 📝 Selected Publications
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ISBI 2026 · Oral</div><img src="/images/aicm.svg" alt="AICM method overview" width="100%"></div></div>
-<div class="paper-box-text" markdown="1">
+- **AICM: An Anatomical-Prior Integrated Conditional Consistency Model for Self-Supervised MRI Through-Plane Super-Resolution.** *IEEE ISBI 2026, Oral.*<br>
+  **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Kai Zhao, Qiudi He, Marcel Dominik Nickel, Fei Han, Kyunghyun Sung.<br>
+  [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11515945) \| [**Code**](https://github.com/Calvin-Pang/AICM)<br>
+  A self-supervised, single-step consistency model that integrates anatomical priors for MRI through-plane super-resolution.
 
-## AICM: An Anatomical-Prior Integrated Conditional Consistency Model for Self-Supervised MRI Through-Plane Super-Resolution
+- **MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging.** *IEEE ISBI 2025.*<br>
+  **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Kai Zhao, Eunsun Oh, Raymi Ramirez, Wayne Brisbane, Kyunghyun Sung.<br>
+  [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10981012) \| [**Code**](https://github.com/Calvin-Pang/MPR-Diff) \| [**Poster**](/uploads/isbi25-MPRDiff.pdf)<br>
+  A self-supervised diffusion framework for multi-planar reformation of prostate micro-ultrasound imaging.
 
-**Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Kai Zhao, Qiudi He, Marcel Dominik Nickel, Fei Han, Kyunghyun Sung
+- **NExpR: Neural Explicit Representation for Fast Arbitrary-Scale Medical Image Super-Resolution.** *Computers in Biology and Medicine, 2025.*<br>
+  **Kaifeng Pang**, Kai Zhao, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, Kyunghyun Sung.<br>
+  [**Paper**](https://www.sciencedirect.com/science/article/pii/S0010482524014392) \| [**Code**](https://github.com/Calvin-Pang/NExpR)<br>
+  A neural explicit representation for fast, continuous arbitrary-scale medical image super-resolution.
 
-[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11515945) \| [**Code**](https://github.com/Calvin-Pang/AICM)
-
-- A self-supervised, single-step consistency model that integrates anatomical priors for MRI through-plane super-resolution.
-</div></div>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ISBI 2025</div><img src="/images/mprdiff.jpg" alt="MPR-Diff poster" width="100%"></div></div>
-<div class="paper-box-text" markdown="1">
-
-## MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging
-
-**Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Kai Zhao, Eunsun Oh, Raymi Ramirez, Wayne Brisbane, Kyunghyun Sung
-
-[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10981012) \| [**Code**](https://github.com/Calvin-Pang/MPR-Diff) \| [**Poster**](/uploads/isbi25-MPRDiff.pdf)
-
-- A self-supervised diffusion framework for multi-planar reformation of prostate micro-ultrasound imaging.
-</div></div>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CBM 2025</div><img src="/images/nexpr.jpg" alt="NExpR method overview" width="100%"></div></div>
-<div class="paper-box-text" markdown="1">
-
-## NExpR: Neural Explicit Representation for Fast Arbitrary-Scale Medical Image Super-Resolution
-
-**Kaifeng Pang**, Kai Zhao, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, Kyunghyun Sung
-
-[**Paper**](https://www.sciencedirect.com/science/article/pii/S0010482524014392) \| [**Code**](https://github.com/Calvin-Pang/NExpR)
-
-- A neural explicit representation for fast, continuous arbitrary-scale medical image super-resolution.
-</div></div>
-
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ISBI 2022 · Oral</div><img src="/images/mag.png" alt="MAg method overview" width="100%"></div></div>
-<div class="paper-box-text" markdown="1">
-
-## MAg: A Simple Learning-Based Patient-Level Aggregation Method for Detecting Microsatellite Instability from Whole-Slide Images
-
-**Kaifeng Pang**, Zuhayr Asad, Shilin Zhao, Yuankai Huo
-
-[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) \| [**Code**](https://github.com/Calvin-Pang/MAg) \| [**Presentation**](https://youtu.be/Ln60y3aGthc)
-
-- Histogram-based patient-level aggregation for microsatellite-instability detection from whole-slide images.
-</div></div>
+- **MAg: A Simple Learning-Based Patient-Level Aggregation Method for Detecting Microsatellite Instability from Whole-Slide Images.** *IEEE ISBI 2022, Oral.*<br>
+  **Kaifeng Pang**, Zuhayr Asad, Shilin Zhao, Yuankai Huo.<br>
+  [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761500) \| [**Code**](https://github.com/Calvin-Pang/MAg) \| [**Presentation**](https://youtu.be/Ln60y3aGthc)<br>
+  A histogram-based patient-level aggregation method for microsatellite-instability detection from whole-slide images.
 
 Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en) for the full list.
 
