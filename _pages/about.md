@@ -34,8 +34,8 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
     <ul>
       <li>Medical Imaging</li>
       <li>Computational Imaging</li>
-      <li>Foundation Models</li>
       <li>Generative Models</li>
+      <li>Foundation Models</li>
     </ul>
   </div>
   <div>
