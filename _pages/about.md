@@ -71,6 +71,10 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
   **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Kai Zhao, Qiudi He, Marcel Dominik Nickel, Fei Han, Kyunghyun Sung.<br>
   [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11515945) \| [**Code**](https://github.com/Calvin-Pang/AICM)
 
+- <span class="venue-badge">IEEE ISBI 2026 · Oral</span> **CoDe: A Self-Supervised Consistency Model Framework for MRI Denoising.**<br>
+  Junying Li, Qingyang Hou, **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Elif Aygun, Shu-Fu Shih, Qing Dai, Holden H. Wu, Kyunghyun Sung.<br>
+  [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515485) \| *Co-first author and corresponding author*
+
 - <span class="venue-badge">IEEE ISBI 2025</span> **MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging.**<br>
   **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Kai Zhao, Eunsun Oh, Raymi Ramirez, Wayne Brisbane, Kyunghyun Sung.<br>
   [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10981012) \| [**Code**](https://github.com/Calvin-Pang/MPR-Diff) \| [**Poster**](/uploads/isbi25-MPRDiff.pdf)
