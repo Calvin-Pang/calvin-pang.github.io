@@ -93,4 +93,4 @@ Please refer to my [Google Scholar page](https://scholar.google.com/citations?us
 # Academic Service
 
 - **Journals:** *IEEE Transactions on Medical Imaging (TMI)*, *Scientific Reports*, *BMC Medical Imaging*, etc.
-- **Conferences:** *MICCAI*, *IEEE ISBI*, and *IEEE-EMBS BHI*, etc.
+- **Conferences:** *MICCAI*, *IEEE ISBI*, *IEEE-EMBS BHI*, etc.
