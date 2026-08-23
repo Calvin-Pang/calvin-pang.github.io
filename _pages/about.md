@@ -115,22 +115,11 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
 - Histogram-based patient-level aggregation for microsatellite-instability detection from whole-slide images.
 </div></div>
 
-## Additional Publications
-
-<ul class="compact-publications">
-  <li><span class="venue-badge">ISBI 2026 · Oral</span> <strong>CoDe: A Self-Supervised Consistency Model Framework for MRI Denoising.</strong><br>Junying Li, Qingyang Hou, <strong>Kaifeng Pang</strong>, Qi Miao, Alex Ling Yu Hung, Elif Aygun, Shu-Fu Shih, Qing Dai, Holden H. Wu, Kyunghyun Sung. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515485">Paper</a>. <em>Co-first author and corresponding author.</em></li>
-  <li><span class="venue-badge">MedIA 2026</span> <strong>PCa-Mamba: Spatiotemporal State Space Models for Prostate Cancer Detection in Multi-Parametric MRI.</strong><br>Kai Zhao, Alex Ling Yu Hung, <strong>Kaifeng Pang</strong>, Parsa Hajipour, Holden Wu, Steve Raman, Kyunghyun Sung. <a href="https://www.sciencedirect.com/science/article/pii/S1361841526001027">Paper</a>.</li>
-  <li><span class="venue-badge">TMI 2024</span> <strong>MRI Super-Resolution with Partial Diffusion Models.</strong><br>Kai Zhao, <strong>Kaifeng Pang</strong>, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, Kyunghyun Sung. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720924">Paper</a>.</li>
-  <li><span class="venue-badge">Cancers 2024</span> <strong>A Deep Learning-Based Framework for Highly Accelerated Prostate MR Dispersion Imaging.</strong><br>Kai Zhao, <strong>Kaifeng Pang</strong>, Alex Ling Yu Hung, Haoxin Zheng, Ran Yan, Kyunghyun Sung. <a href="https://www.mdpi.com/2072-6694/16/17/2983">Paper</a>.</li>
-  <li><span class="venue-badge">MICCAI 2024</span> <strong>Cross-Slice Attention and Evidential Critical Loss for Uncertainty-Aware Prostate Cancer Detection.</strong><br>Alex Ling Yu Hung, Haoxin Zheng, Kai Zhao, <strong>Kaifeng Pang</strong>, Demetri Terzopoulos, Kyunghyun Sung. <a href="https://arxiv.org/pdf/2407.01146">Paper</a>.</li>
-  <li><span class="venue-badge">WACV 2024</span> <strong>CSAM: A 2.5D Cross-Slice Attention Module for Anisotropic Volumetric Medical Image Segmentation.</strong><br>Alex Ling Yu Hung, Haoxin Zheng, Kai Zhao, Xiaoxi Du, <strong>Kaifeng Pang</strong>, Qi Miao, Steven S. Raman, Demetri Terzopoulos, Kyunghyun Sung. <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Hung_CSAM_A_2.5D_Cross-Slice_Attention_Module_for_Anisotropic_Volumetric_Medical_WACV_2024_paper.pdf">Paper</a>.</li>
-</ul>
-
 Please refer to my [Google Scholar page](https://scholar.google.com/citations?user=aA28ZkcAAAAJ&hl=en) for the full list.
 
 <span class="anchor" id="academic-service"></span>
 
 # 🖋️ Academic Service
 
-- **Journals:** *IEEE Transactions on Medical Imaging (TMI)*, *Scientific Reports*, *International Journal of Data Science and Analytics*, *Discover Computing*, *BMC Medical Imaging*, *International Journal of Computational Intelligence Systems*, *International Journal of Machine Learning and Cybernetics*, *Multimedia Systems*, and *Signal, Image and Video Processing*.
-- **Conferences:** *Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, *IEEE International Symposium on Biomedical Imaging (ISBI)*, and *IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)*.
+- **Journals:** *IEEE Transactions on Medical Imaging (TMI)*, *Scientific Reports*, *BMC Medical Imaging*, etc.
+- **Conferences:** *MICCAI*, *IEEE ISBI*, and *IEEE-EMBS BHI*, etc.
