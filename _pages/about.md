@@ -16,7 +16,7 @@ I am a second-year PhD candidate in the Department of <a href="https://www.uclah
 </p>
 
 <p style="text-align: justify;">
-I am a member of the <a href="https://mrrl.ucla.edu/labs/sung-lab">Sung Lab</a> within <a href="https://mrrl.ucla.edu/">MRRL Labs</a>. I also engage in collaborative research with <a href="https://www.uclahealth.org/providers/wayne-brisbane">Prof. Wayne Brisbane</a>'s group. My current research focuses on data-driven medical image enhancement, generative models, and foundation models. I was an Oncology–Deep Learning Researcher Intern at <a href="https://www.bms.com/">Bristol Myers Squibb</a> during summer 2025.
+I am a member of the <a href="https://mrrl.ucla.edu/labs/sung-lab">Sung Lab</a> within <a href="https://mrrl.ucla.edu/">MRRL Labs</a>. I also engage in collaborative research with <a href="https://www.uclahealth.org/providers/wayne-brisbane">Prof. Wayne Brisbane</a>'s group. My current research focuses on data-driven medical image enhancement, generative models, and foundation models. I was an Research Intern at <a href="https://www.bms.com/">Bristol Myers Squibb</a> during summer 2025.
 </p>
 
 <p style="text-align: justify;">
