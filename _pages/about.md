@@ -50,7 +50,7 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
 
 <span class="anchor" id="recent-posts"></span>
 
-# ✍️ Recent Posts
+# Recent Posts
 
 <ul class="post-list">
 {% for post in site.posts %}
@@ -64,7 +64,7 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
 
 <span class="anchor" id="selected-publications"></span>
 
-# 📝 Selected Publications
+# Selected Publications
 
 - <span class="venue-badge">IEEE ISBI 2026 · Oral</span> **AICM: An Anatomical-Prior Integrated Conditional Consistency Model for Self-Supervised MRI Through-Plane Super-Resolution.**<br>
   **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Kai Zhao, Qiudi He, Marcel Dominik Nickel, Fei Han, Kyunghyun Sung.<br>
@@ -90,7 +90,7 @@ Please refer to my [Google Scholar page](https://scholar.google.com/citations?us
 
 <span class="anchor" id="academic-service"></span>
 
-# 🖋️ Academic Service
+# Academic Service
 
 - **Journals:** *IEEE Transactions on Medical Imaging (TMI)*, *Scientific Reports*, *BMC Medical Imaging*, etc.
 - **Conferences:** *MICCAI*, *IEEE ISBI*, and *IEEE-EMBS BHI*, etc.
