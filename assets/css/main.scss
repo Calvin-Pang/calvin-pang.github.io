@@ -135,9 +135,10 @@ h1:before, .anchor:before {
 .personal-motto {
     color: $gray;
     font-family: $serif;
-    font-size: 1.35em;
+    font-size: 2em;
     font-style: italic;
-    margin: 1.4em 0;
+    margin: 2.5em 0 1em;
+    text-align: center;
 }
 
 .profile-details-grid {
@@ -346,6 +347,10 @@ html.theme-dark {
 }
 
 @media (max-width: 767px) {
+    .personal-motto {
+        font-size: 1.65em;
+    }
+
     .paper-box .paper-box-image img {
         height: auto;
         max-height: 260px;

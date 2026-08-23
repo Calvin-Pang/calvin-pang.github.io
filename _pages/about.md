@@ -27,8 +27,6 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
   <p>💻 <strong>I will be joining Samsung Research America (SRA) this summer as a Research Intern.</strong></p>
 </div>
 
-<p class="personal-motto">Mindfully, Compassionately, Boldly.</p>
-
 <div class="profile-details-grid">
   <div>
     <h2>Research Interests</h2>
@@ -95,3 +93,5 @@ Please refer to my [Google Scholar page](https://scholar.google.com/citations?us
 
 - **Journals:** *IEEE Transactions on Medical Imaging (TMI)*, *Scientific Reports*, *BMC Medical Imaging*, etc.
 - **Conferences:** *MICCAI*, *IEEE ISBI*, and *IEEE-EMBS BHI*, etc.
+
+<p class="personal-motto">Mindfully, Compassionately, Boldly.</p>
