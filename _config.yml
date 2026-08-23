@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Kaifeng (Calvin) Pang"
 description              : "PhD candidate at UCLA researching medical imaging, computational imaging, generative models, and foundation models."
+motto                   : "Mindfully, Compassionately, Boldly."
 url                      : "https://kfpang.com"
 baseurl                  : ""
 repository               : "Calvin-Pang/calvin-pang.github.io"
