@@ -73,7 +73,7 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
 
 - <span class="venue-badge">IEEE ISBI 2026 · Oral</span> **CoDe: A Self-Supervised Consistency Model Framework for MRI Denoising.**<br>
   Junying Li, Qingyang Hou, **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Elif Aygun, Shu-Fu Shih, Qing Dai, Holden H. Wu, Kyunghyun Sung.<br>
-  [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515485) \| *Co-first author and corresponding author*
+  [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515485) \| [**Code**](https://github.com/JimmyHou123/CoDe-model) \| *Co-first author and corresponding author*
 
 - <span class="venue-badge">IEEE ISBI 2025</span> **MPR-Diff: A Self-Supervised Diffusion Model for Multi-Planar Reformation in Prostate Micro-Ultrasound Imaging.**<br>
   **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Kai Zhao, Eunsun Oh, Raymi Ramirez, Wayne Brisbane, Kyunghyun Sung.<br>
