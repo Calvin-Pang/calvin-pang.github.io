@@ -12,7 +12,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <p style="text-align: justify;">
-I am a second-year PhD candidate in the Department of <a href="https://www.uclahealth.org/departments/radiology">Radiological Sciences</a> and the Department of <a href="https://samueli.ucla.edu/">Electrical and Computer Engineering</a> at <a href="https://www.ucla.edu/">UCLA</a>, where I am privileged to be co-advised by <a href="https://mrrl.ucla.edu/people/kyung-sung-phd">Prof. Kyung Sung</a> and <a href="https://samueli.ucla.edu/people/robert-candler/">Prof. Robert Candler</a>. Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and Engineering from <a href="https://www.nju.edu.cn/en/">Nanjing University</a> in 2022, advised by <a href="https://ieeexplore.ieee.org/author/37676384600">Prof. Yang Li</a>. During my undergraduate studies, I was also fortunate to work with <a href="https://hrlblab.github.io/">Prof. Yuankai Huo</a> at <a href="https://vanderbilt.edu/">Vanderbilt University</a>.
+I am a third-year PhD candidate in the Department of <a href="https://www.uclahealth.org/departments/radiology">Radiological Sciences</a> and the Department of <a href="https://samueli.ucla.edu/">Electrical and Computer Engineering</a> at <a href="https://www.ucla.edu/">UCLA</a>, where I am privileged to be co-advised by <a href="https://mrrl.ucla.edu/people/kyung-sung-phd">Prof. Kyung Sung</a> and <a href="https://samueli.ucla.edu/people/robert-candler/">Prof. Robert Candler</a>. Prior to joining UCLA, I received my Bachelor's degree in Electronic Science and Engineering from <a href="https://www.nju.edu.cn/en/">Nanjing University</a> in 2022, advised by <a href="https://ieeexplore.ieee.org/author/37676384600">Prof. Yang Li</a>. During my undergraduate studies, I was also fortunate to work with <a href="https://hrlblab.github.io/">Prof. Yuankai Huo</a> at <a href="https://vanderbilt.edu/">Vanderbilt University</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -65,6 +65,10 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
 <span class="anchor" id="selected-publications"></span>
 
 # Selected Publications
+
+- <span class="venue-badge">Medical Image Analysis · 2026</span> **Micro-Ultrasound Super-Resolution with Geometry-Driven Consistency Models.**<br>
+  **Kaifeng Pang**, Kai Zhao, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Raymi Ramirez, Qiudi He, Jordan Klein, Wei Shao, Wayne Brisbane, Kyunghyun Sung.<br>
+  [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1361841526004020) \| [**Code**](https://github.com/Calvin-Pang/UltraCCM)
 
 - <span class="venue-badge">IEEE ISBI 2026 · Oral</span> **AICM: An Anatomical-Prior Integrated Conditional Consistency Model for Self-Supervised MRI Through-Plane Super-Resolution.**<br>
   **Kaifeng Pang**, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Kai Zhao, Qiudi He, Marcel Dominik Nickel, Fei Han, Kyunghyun Sung.<br>
