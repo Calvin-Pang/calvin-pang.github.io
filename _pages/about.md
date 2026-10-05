@@ -66,6 +66,10 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
 
 # Selected Publications
 
+- <span class="venue-badge">medRxiv · 2026 · Preprint</span> **Data-Efficient Prostate Micro-Ultrasound Image Analysis using a Modality-specific Foundation Model.**<br>
+  **Kaifeng Pang**, Junxin Fan, Alex Ling Yu Hung, Qi Miao, Changsuk Oh, Qiudi He, Brian Wodlinger, Adam Kinnaird, Wayne Brisbane, Kyunghyun Sung.<br>
+  [**Paper**](https://doi.org/10.64898/2026.09.29.26364330)
+
 - <span class="venue-badge">Medical Image Analysis · 2026</span> **Micro-Ultrasound Super-Resolution with Geometry-Driven Consistency Models.**<br>
   **Kaifeng Pang**, Kai Zhao, Qi Miao, Alex Ling Yu Hung, Changsuk Oh, Raymi Ramirez, Qiudi He, Jordan Klein, Wei Shao, Wayne Brisbane, Kyunghyun Sung.<br>
   [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1361841526004020) \| [**Code**](https://github.com/Calvin-Pang/UltraCCM)
