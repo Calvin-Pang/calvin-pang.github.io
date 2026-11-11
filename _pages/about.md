@@ -20,7 +20,7 @@ I am a member of the <a href="https://mrrl.ucla.edu/labs/sung-lab">Sung Lab</a> 
 </p>
 
 <p style="text-align: justify;">
-Previously, I was a Research Intern at Samsung Research America (SRA) in summer 2026 and at <a href="https://www.bms.com/">Bristol Myers Squibb</a> in summer 2025.
+Previously, I was a Research Intern at <a href="https://sra.samsung.com/">Samsung Research America (SRA)</a> in summer 2026 and at <a href="https://www.bms.com/">Bristol Myers Squibb</a> in summer 2025.
 </p>
 
 <p style="text-align: justify;">
