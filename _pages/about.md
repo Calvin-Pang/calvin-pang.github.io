@@ -16,7 +16,7 @@ I am a third-year PhD candidate in the Department of <a href="https://www.uclahe
 </p>
 
 <p style="text-align: justify;">
-I am a member of the <a href="https://mrrl.ucla.edu/labs/sung-lab">Sung Lab</a> within <a href="https://mrrl.ucla.edu/">MRRL Labs</a>. I also engage in collaborative research with <a href="https://www.uclahealth.org/providers/wayne-brisbane">Prof. Wayne Brisbane</a>'s group. My current research focuses on data-driven medical image enhancement, generative models, and foundation models. I am particularly interested in developing data- and compute-efficient medical imaging frameworks that learn with limited supervision and address real-world acquisition constraints.
+I am a member of the <a href="https://mrrl.ucla.edu/labs/sung-lab">Sung Lab</a> within <a href="https://mrrl.ucla.edu/">MRRL Labs</a>. I also engage in collaborative research with <a href="https://www.uclahealth.org/providers/wayne-brisbane">Prof. Wayne Brisbane</a>'s group. My current research focuses on data-driven medical image enhancement, generative models, and foundation models. I am particularly interested in developing data- and compute-efficient frameworks for medical imaging and analysis that learn with limited supervision and address real-world constraints.
 </p>
 
 <p style="text-align: justify;">
