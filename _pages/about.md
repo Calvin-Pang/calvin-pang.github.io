@@ -16,7 +16,11 @@ I am a third-year PhD candidate in the Department of <a href="https://www.uclahe
 </p>
 
 <p style="text-align: justify;">
-I am a member of the <a href="https://mrrl.ucla.edu/labs/sung-lab">Sung Lab</a> within <a href="https://mrrl.ucla.edu/">MRRL Labs</a>. I also engage in collaborative research with <a href="https://www.uclahealth.org/providers/wayne-brisbane">Prof. Wayne Brisbane</a>'s group. My current research focuses on data-driven medical image enhancement, generative models, and foundation models. I am particularly interested in developing data- and compute-efficient medical imaging frameworks that learn with limited supervision and address real-world acquisition constraints. I was an Research Intern at <a href="https://www.bms.com/">Bristol Myers Squibb</a> during summer 2025.
+I am a member of the <a href="https://mrrl.ucla.edu/labs/sung-lab">Sung Lab</a> within <a href="https://mrrl.ucla.edu/">MRRL Labs</a>. I also engage in collaborative research with <a href="https://www.uclahealth.org/providers/wayne-brisbane">Prof. Wayne Brisbane</a>'s group. My current research focuses on data-driven medical image enhancement, generative models, and foundation models. I am particularly interested in developing data- and compute-efficient medical imaging frameworks that learn with limited supervision and address real-world acquisition constraints.
+</p>
+
+<p style="text-align: justify;">
+Previously, I was a Research Intern at Samsung Research America (SRA) in summer 2026 and at <a href="https://www.bms.com/">Bristol Myers Squibb</a> in summer 2025.
 </p>
 
 <p style="text-align: justify;">
@@ -25,7 +29,6 @@ Outside of academia, I enjoy soccer, billiards, and bouldering. I am a fan of <a
 
 <div class="profile-callouts">
   <p>🙌 <strong>Feel free to drop me an email if you are interested in my research projects or potential collaboration.</strong></p>
-  <p>💻 <strong>I will be joining Samsung Research America (SRA) this summer as a Research Intern.</strong></p>
 </div>
 
 <div class="profile-details-grid">
